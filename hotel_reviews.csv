@@ -1,0 +1,301 @@
+ReviewID,HotelName,Rating,ReviewText,CustomerID,ReviewDate
+1,City Lights,1,Terrible experience,1552,2024-01-01
+2,Grand Plaza,4,Good for the price,1367,2024-01-02
+3,City Lights,1,Amazing stay!,1146,2024-01-03
+4,City Lights,5,Terrible experience,1111,2024-01-04
+5,Grand Plaza,2,Excellent service,1614,2024-01-05
+6,Mountain Retreat,5,Rooms were clean,1557,2024-01-06
+7,City Lights,3,Loved the view!,1923,2024-01-07
+8,Ocean View,3,Not bad,1493,2024-01-08
+9,Grand Plaza,3,Very comfortable,1504,2024-01-09
+10,Sunny Resort,5,Not bad,1474,2024-01-10
+11,Mountain Retreat,4,Loved the view!,1835,2024-01-11
+12,Grand Plaza,2,Rooms were clean,1889,2024-01-12
+13,Sunny Resort,3,Loved the view!,1270,2024-01-13
+14,Sunny Resort,3,Very comfortable,1994,2024-01-14
+15,City Lights,3,Terrible experience,1420,2024-01-15
+16,City Lights,2,Could be better,1896,2024-01-16
+17,City Lights,3,Very comfortable,1706,2024-01-17
+18,Grand Plaza,2,Loved the view!,1366,2024-01-18
+19,Grand Plaza,3,Loved the view!,1279,2024-01-19
+20,Mountain Retreat,5,Excellent service,1282,2024-01-20
+21,City Lights,5,Excellent service,1039,2024-01-21
+22,Sunny Resort,2,Would not recommend,1958,2024-01-22
+23,Ocean View,5,Excellent service,1188,2024-01-23
+24,Mountain Retreat,2,Amazing stay!,1163,2024-01-24
+25,Grand Plaza,5,Could be better,1993,2024-01-25
+26,Mountain Retreat,5,Rooms were clean,1988,2024-01-26
+27,Mountain Retreat,2,Very comfortable,1535,2024-01-27
+28,Mountain Retreat,4,Loved the view!,1535,2024-01-28
+29,Mountain Retreat,5,Would not recommend,1003,2024-01-29
+30,Ocean View,3,Would not recommend,1834,2024-01-30
+31,City Lights,4,Rooms were clean,1289,2024-01-31
+32,Sunny Resort,2,Could be better,1952,2024-02-01
+33,Mountain Retreat,4,Very comfortable,1432,2024-02-02
+34,Mountain Retreat,1,Not bad,1470,2024-02-03
+35,Mountain Retreat,1,Excellent service,1180,2024-02-04
+36,City Lights,5,Terrible experience,1247,2024-02-05
+37,Grand Plaza,5,Would not recommend,1627,2024-02-06
+38,Grand Plaza,3,Excellent service,1278,2024-02-07
+39,Ocean View,4,Excellent service,1876,2024-02-08
+40,Grand Plaza,1,Amazing stay!,1580,2024-02-09
+41,Mountain Retreat,5,Could be better,1862,2024-02-10
+42,Mountain Retreat,4,Terrible experience,1253,2024-02-11
+43,Mountain Retreat,5,Not bad,1180,2024-02-12
+44,Ocean View,5,Loved the view!,1829,2024-02-13
+45,Mountain Retreat,1,Amazing stay!,1680,2024-02-14
+46,Grand Plaza,1,Excellent service,1824,2024-02-15
+47,City Lights,5,Excellent service,1508,2024-02-16
+48,City Lights,2,Good for the price,1760,2024-02-17
+49,Sunny Resort,5,Terrible experience,1699,2024-02-18
+50,Grand Plaza,5,Terrible experience,1565,2024-02-19
+51,Mountain Retreat,3,Good for the price,1325,2024-02-20
+52,City Lights,3,Terrible experience,1356,2024-02-21
+53,Grand Plaza,3,Excellent service,1824,2024-02-22
+54,City Lights,2,Would not recommend,1649,2024-02-23
+55,Mountain Retreat,2,Very comfortable,1679,2024-02-24
+56,City Lights,5,Excellent service,1390,2024-02-25
+57,Sunny Resort,3,Amazing stay!,1614,2024-02-26
+58,Sunny Resort,2,Could be better,1933,2024-02-27
+59,City Lights,1,Good for the price,1084,2024-02-28
+60,Grand Plaza,5,Not bad,1316,2024-02-29
+61,Grand Plaza,4,Loved the view!,1211,2024-03-01
+62,Grand Plaza,5,Not bad,1514,2024-03-02
+63,City Lights,4,Excellent service,1383,2024-03-03
+64,Grand Plaza,3,Amazing stay!,1690,2024-03-04
+65,Mountain Retreat,4,Excellent service,1341,2024-03-05
+66,Sunny Resort,3,Could be better,1814,2024-03-06
+67,Mountain Retreat,1,Would not recommend,1963,2024-03-07
+68,Grand Plaza,4,Loved the view!,1987,2024-03-08
+69,Mountain Retreat,5,Could be better,1843,2024-03-09
+70,Grand Plaza,3,Good for the price,1037,2024-03-10
+71,City Lights,5,Good for the price,1510,2024-03-11
+72,Mountain Retreat,2,Excellent service,1419,2024-03-12
+73,City Lights,3,Amazing stay!,1750,2024-03-13
+74,City Lights,4,Could be better,1168,2024-03-14
+75,Ocean View,3,Rooms were clean,1964,2024-03-15
+76,Grand Plaza,5,Amazing stay!,1908,2024-03-16
+77,Sunny Resort,1,Would not recommend,1342,2024-03-17
+78,Grand Plaza,3,Good for the price,1825,2024-03-18
+79,Sunny Resort,4,Excellent service,1305,2024-03-19
+80,Grand Plaza,2,Terrible experience,1541,2024-03-20
+81,City Lights,1,Good for the price,1701,2024-03-21
+82,Mountain Retreat,2,Loved the view!,1868,2024-03-22
+83,Mountain Retreat,3,Very comfortable,1536,2024-03-23
+84,Ocean View,5,Terrible experience,1111,2024-03-24
+85,Sunny Resort,5,Excellent service,1410,2024-03-25
+86,Sunny Resort,4,Rooms were clean,1946,2024-03-26
+87,Sunny Resort,5,Terrible experience,1205,2024-03-27
+88,City Lights,1,Loved the view!,1184,2024-03-28
+89,Sunny Resort,5,Amazing stay!,1381,2024-03-29
+90,Mountain Retreat,4,Rooms were clean,1495,2024-03-30
+91,City Lights,3,Good for the price,1378,2024-03-31
+92,Grand Plaza,3,Rooms were clean,1046,2024-04-01
+93,Sunny Resort,5,Could be better,1885,2024-04-02
+94,Sunny Resort,2,Loved the view!,1739,2024-04-03
+95,Grand Plaza,3,Terrible experience,1550,2024-04-04
+96,Sunny Resort,5,Could be better,1527,2024-04-05
+97,Grand Plaza,4,Rooms were clean,1503,2024-04-06
+98,City Lights,5,Could be better,1021,2024-04-07
+99,Mountain Retreat,3,Not bad,1212,2024-04-08
+100,Grand Plaza,4,Loved the view!,1309,2024-04-09
+101,Ocean View,5,Would not recommend,1660,2024-04-10
+102,Grand Plaza,1,Amazing stay!,1967,2024-04-11
+103,Sunny Resort,4,Rooms were clean,1752,2024-04-12
+104,City Lights,1,Loved the view!,1271,2024-04-13
+105,City Lights,2,Would not recommend,1570,2024-04-14
+106,Grand Plaza,4,Would not recommend,1798,2024-04-15
+107,Mountain Retreat,1,Excellent service,1937,2024-04-16
+108,Ocean View,3,Could be better,1201,2024-04-17
+109,City Lights,3,Would not recommend,1031,2024-04-18
+110,Sunny Resort,2,Not bad,1442,2024-04-19
+111,Sunny Resort,4,Loved the view!,1161,2024-04-20
+112,Mountain Retreat,4,Very comfortable,1766,2024-04-21
+113,City Lights,4,Very comfortable,1253,2024-04-22
+114,Grand Plaza,2,Rooms were clean,1520,2024-04-23
+115,Sunny Resort,4,Good for the price,1976,2024-04-24
+116,Mountain Retreat,3,Could be better,1650,2024-04-25
+117,City Lights,1,Good for the price,1479,2024-04-26
+118,City Lights,3,Would not recommend,1009,2024-04-27
+119,City Lights,3,Loved the view!,1725,2024-04-28
+120,City Lights,1,Rooms were clean,1504,2024-04-29
+121,City Lights,3,Terrible experience,1784,2024-04-30
+122,Sunny Resort,2,Would not recommend,1835,2024-05-01
+123,Mountain Retreat,1,Could be better,1559,2024-05-02
+124,City Lights,3,Very comfortable,1435,2024-05-03
+125,Ocean View,5,Excellent service,1110,2024-05-04
+126,Ocean View,3,Loved the view!,1152,2024-05-05
+127,Mountain Retreat,2,Amazing stay!,1634,2024-05-06
+128,Grand Plaza,4,Good for the price,1916,2024-05-07
+129,Grand Plaza,3,Rooms were clean,1868,2024-05-08
+130,Grand Plaza,4,Good for the price,1101,2024-05-09
+131,Ocean View,5,Loved the view!,1752,2024-05-10
+132,Grand Plaza,3,Good for the price,1832,2024-05-11
+133,Sunny Resort,1,Loved the view!,1190,2024-05-12
+134,City Lights,4,Good for the price,1728,2024-05-13
+135,Ocean View,5,Not bad,1562,2024-05-14
+136,Mountain Retreat,1,Terrible experience,1803,2024-05-15
+137,Mountain Retreat,1,Would not recommend,1080,2024-05-16
+138,City Lights,1,Would not recommend,1488,2024-05-17
+139,Ocean View,1,Could be better,1894,2024-05-18
+140,Grand Plaza,3,Amazing stay!,1087,2024-05-19
+141,Grand Plaza,3,Amazing stay!,1193,2024-05-20
+142,Sunny Resort,3,Could be better,1103,2024-05-21
+143,Sunny Resort,5,Excellent service,1782,2024-05-22
+144,Grand Plaza,5,Would not recommend,1095,2024-05-23
+145,Mountain Retreat,5,Excellent service,1422,2024-05-24
+146,Mountain Retreat,2,Loved the view!,1890,2024-05-25
+147,Sunny Resort,5,Loved the view!,1197,2024-05-26
+148,City Lights,3,Very comfortable,1000,2024-05-27
+149,Grand Plaza,3,Good for the price,1406,2024-05-28
+150,Sunny Resort,2,Amazing stay!,1377,2024-05-29
+151,Sunny Resort,2,Very comfortable,1166,2024-05-30
+152,Grand Plaza,5,Terrible experience,1508,2024-05-31
+153,Grand Plaza,4,Could be better,1637,2024-06-01
+154,Mountain Retreat,2,Could be better,1312,2024-06-02
+155,City Lights,1,Loved the view!,1592,2024-06-03
+156,City Lights,3,Would not recommend,1417,2024-06-04
+157,Grand Plaza,1,Excellent service,1762,2024-06-05
+158,Ocean View,3,Amazing stay!,1680,2024-06-06
+159,Sunny Resort,3,Very comfortable,1476,2024-06-07
+160,Sunny Resort,2,Excellent service,1072,2024-06-08
+161,Grand Plaza,2,Very comfortable,1140,2024-06-09
+162,Ocean View,1,Good for the price,1581,2024-06-10
+163,Mountain Retreat,3,Terrible experience,1261,2024-06-11
+164,Grand Plaza,1,Terrible experience,1339,2024-06-12
+165,Grand Plaza,4,Excellent service,1307,2024-06-13
+166,Sunny Resort,1,Excellent service,1244,2024-06-14
+167,Grand Plaza,5,Excellent service,1514,2024-06-15
+168,Grand Plaza,1,Very comfortable,1336,2024-06-16
+169,Grand Plaza,5,Good for the price,1574,2024-06-17
+170,Sunny Resort,5,Not bad,1560,2024-06-18
+171,Mountain Retreat,5,Excellent service,1075,2024-06-19
+172,Mountain Retreat,4,Would not recommend,1879,2024-06-20
+173,Grand Plaza,1,Amazing stay!,1174,2024-06-21
+174,Sunny Resort,1,Amazing stay!,1108,2024-06-22
+175,Mountain Retreat,4,Very comfortable,1182,2024-06-23
+176,Mountain Retreat,3,Excellent service,1191,2024-06-24
+177,Mountain Retreat,2,Loved the view!,1064,2024-06-25
+178,Sunny Resort,1,Could be better,1848,2024-06-26
+179,Sunny Resort,2,Not bad,1962,2024-06-27
+180,Grand Plaza,4,Would not recommend,1473,2024-06-28
+181,City Lights,3,Good for the price,1782,2024-06-29
+182,Mountain Retreat,3,Loved the view!,1099,2024-06-30
+183,City Lights,3,Terrible experience,1543,2024-07-01
+184,Sunny Resort,4,Loved the view!,1863,2024-07-02
+185,Sunny Resort,5,Very comfortable,1127,2024-07-03
+186,Sunny Resort,5,Not bad,1451,2024-07-04
+187,City Lights,2,Rooms were clean,1913,2024-07-05
+188,Sunny Resort,5,Rooms were clean,1368,2024-07-06
+189,Grand Plaza,5,Excellent service,1850,2024-07-07
+190,Sunny Resort,3,Excellent service,1042,2024-07-08
+191,Ocean View,3,Very comfortable,1883,2024-07-09
+192,City Lights,2,Good for the price,1418,2024-07-10
+193,Ocean View,1,Excellent service,1487,2024-07-11
+194,Sunny Resort,2,Could be better,1077,2024-07-12
+195,Grand Plaza,2,Not bad,1825,2024-07-13
+196,Mountain Retreat,4,Very comfortable,1800,2024-07-14
+197,Sunny Resort,4,Amazing stay!,1269,2024-07-15
+198,Grand Plaza,2,Terrible experience,1673,2024-07-16
+199,City Lights,2,Very comfortable,1700,2024-07-17
+200,Ocean View,2,Very comfortable,1758,2024-07-18
+201,Ocean View,5,Rooms were clean,1899,2024-07-19
+202,Ocean View,4,Would not recommend,1727,2024-07-20
+203,City Lights,2,Good for the price,1314,2024-07-21
+204,Grand Plaza,3,Would not recommend,1924,2024-07-22
+205,City Lights,3,Could be better,1850,2024-07-23
+206,Ocean View,5,Amazing stay!,1901,2024-07-24
+207,Sunny Resort,5,Rooms were clean,1888,2024-07-25
+208,Mountain Retreat,1,Amazing stay!,1992,2024-07-26
+209,City Lights,1,Could be better,1944,2024-07-27
+210,City Lights,1,Would not recommend,1167,2024-07-28
+211,Grand Plaza,5,Very comfortable,1338,2024-07-29
+212,Grand Plaza,5,Excellent service,1192,2024-07-30
+213,City Lights,5,Excellent service,1452,2024-07-31
+214,Ocean View,3,Loved the view!,1282,2024-08-01
+215,Mountain Retreat,5,Terrible experience,1335,2024-08-02
+216,Grand Plaza,3,Good for the price,1389,2024-08-03
+217,Ocean View,1,Could be better,1999,2024-08-04
+218,Sunny Resort,1,Terrible experience,1524,2024-08-05
+219,Grand Plaza,1,Good for the price,1239,2024-08-06
+220,Ocean View,2,Terrible experience,1831,2024-08-07
+221,Ocean View,2,Would not recommend,1957,2024-08-08
+222,Mountain Retreat,4,Good for the price,1482,2024-08-09
+223,Mountain Retreat,4,Would not recommend,1658,2024-08-10
+224,Sunny Resort,4,Very comfortable,1715,2024-08-11
+225,Ocean View,2,Rooms were clean,1591,2024-08-12
+226,Ocean View,2,Would not recommend,1890,2024-08-13
+227,Mountain Retreat,4,Excellent service,1554,2024-08-14
+228,Grand Plaza,4,Terrible experience,1457,2024-08-15
+229,Grand Plaza,5,Loved the view!,1088,2024-08-16
+230,City Lights,4,Not bad,1659,2024-08-17
+231,Mountain Retreat,5,Good for the price,1094,2024-08-18
+232,City Lights,3,Could be better,1451,2024-08-19
+233,Mountain Retreat,2,Loved the view!,1427,2024-08-20
+234,Sunny Resort,4,Excellent service,1150,2024-08-21
+235,Ocean View,2,Would not recommend,1513,2024-08-22
+236,Sunny Resort,2,Rooms were clean,1375,2024-08-23
+237,Mountain Retreat,2,Very comfortable,1021,2024-08-24
+238,Ocean View,3,Not bad,1882,2024-08-25
+239,Grand Plaza,1,Amazing stay!,1312,2024-08-26
+240,Grand Plaza,4,Loved the view!,1996,2024-08-27
+241,City Lights,1,Rooms were clean,1839,2024-08-28
+242,Mountain Retreat,1,Amazing stay!,1518,2024-08-29
+243,Mountain Retreat,1,Not bad,1205,2024-08-30
+244,Grand Plaza,2,Could be better,1951,2024-08-31
+245,Sunny Resort,5,Could be better,1374,2024-09-01
+246,Ocean View,2,Terrible experience,1450,2024-09-02
+247,Sunny Resort,2,Not bad,1625,2024-09-03
+248,Sunny Resort,1,Not bad,1783,2024-09-04
+249,Grand Plaza,2,Amazing stay!,1594,2024-09-05
+250,Grand Plaza,1,Rooms were clean,1178,2024-09-06
+251,Grand Plaza,5,Good for the price,1209,2024-09-07
+252,City Lights,4,Amazing stay!,1499,2024-09-08
+253,Sunny Resort,1,Very comfortable,1463,2024-09-09
+254,Mountain Retreat,5,Could be better,1839,2024-09-10
+255,Ocean View,4,Could be better,1123,2024-09-11
+256,City Lights,3,Terrible experience,1992,2024-09-12
+257,Mountain Retreat,1,Very comfortable,1112,2024-09-13
+258,Sunny Resort,1,Could be better,1011,2024-09-14
+259,Grand Plaza,3,Amazing stay!,1125,2024-09-15
+260,Sunny Resort,3,Very comfortable,1564,2024-09-16
+261,Ocean View,1,Amazing stay!,1330,2024-09-17
+262,City Lights,3,Good for the price,1900,2024-09-18
+263,City Lights,2,Good for the price,1282,2024-09-19
+264,Ocean View,4,Could be better,1139,2024-09-20
+265,Mountain Retreat,4,Could be better,1400,2024-09-21
+266,Mountain Retreat,4,Rooms were clean,1901,2024-09-22
+267,City Lights,2,Good for the price,1096,2024-09-23
+268,City Lights,3,Loved the view!,1516,2024-09-24
+269,Grand Plaza,5,Loved the view!,1568,2024-09-25
+270,Mountain Retreat,3,Terrible experience,1923,2024-09-26
+271,Ocean View,1,Good for the price,1845,2024-09-27
+272,Mountain Retreat,4,Amazing stay!,1068,2024-09-28
+273,Grand Plaza,3,Amazing stay!,1117,2024-09-29
+274,City Lights,5,Excellent service,1887,2024-09-30
+275,City Lights,1,Very comfortable,1058,2024-10-01
+276,Grand Plaza,2,Would not recommend,1032,2024-10-02
+277,Ocean View,2,Loved the view!,1317,2024-10-03
+278,City Lights,5,Could be better,1049,2024-10-04
+279,Sunny Resort,1,Terrible experience,1879,2024-10-05
+280,City Lights,4,Would not recommend,1488,2024-10-06
+281,Sunny Resort,3,Not bad,1018,2024-10-07
+282,Grand Plaza,1,Terrible experience,1725,2024-10-08
+283,Grand Plaza,2,Not bad,1196,2024-10-09
+284,City Lights,5,Good for the price,1890,2024-10-10
+285,Mountain Retreat,5,Not bad,1449,2024-10-11
+286,Sunny Resort,3,Not bad,1989,2024-10-12
+287,Ocean View,5,Rooms were clean,1558,2024-10-13
+288,City Lights,5,Rooms were clean,1678,2024-10-14
+289,Ocean View,1,Rooms were clean,1451,2024-10-15
+290,City Lights,4,Good for the price,1288,2024-10-16
+291,Mountain Retreat,3,Would not recommend,1140,2024-10-17
+292,Mountain Retreat,1,Terrible experience,1083,2024-10-18
+293,Mountain Retreat,4,Terrible experience,1693,2024-10-19
+294,Mountain Retreat,1,Could be better,1390,2024-10-20
+295,Grand Plaza,1,Rooms were clean,1590,2024-10-21
+296,Grand Plaza,5,Good for the price,1214,2024-10-22
+297,Sunny Resort,4,Could be better,1525,2024-10-23
+298,Ocean View,3,Very comfortable,1214,2024-10-24
+299,City Lights,3,Could be better,1402,2024-10-25
+300,City Lights,4,Would not recommend,1127,2024-10-26
