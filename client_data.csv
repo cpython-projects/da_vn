@@ -1,0 +1,1001 @@
+Num of Childs , TotalWorkExp_days, Client age Yrs, Educat.Level ,Ed ID,Marital stat , Marital_ID, Clnt Gender, Emp.Type ,Loan Def?,Income $ ,Loan_purpose,Reg_Date
+1,5047,39,Bachelor,3,Married,3,Male,Unemployed,Yes,nan,Education,2019-05-07 02:52:58.378378368
+nan,2353,39,High School,4,Single,3,Male,Part-time,Yes,7067,Medical,2020-01-25 07:51:21.081081056
+3,nan,57,High School,2,Single,2,Male,Part-time,No,7647,Car,2020-09-18 22:40:43.243243232
+2,4569,64,nan,3,Divorced,1,Female,Full-time,Yes,8532,Home,2016-06-07 07:47:01.621621616
+0,10326,32,nan,3,Single,1,Female,Unemployed,Yes,1826,Business,2023-04-09 03:17:28.648648640
+0,8467,32,High School,2,Married,1,Female,Self-employed,Yes,1717,Medical,2014-02-28 11:46:18.378378378
+0,6471,40,Bachelor,2,Married,2,Male,Unemployed,No,2082,Car,2015-02-10 18:39:59.999999996
+4,13331,47,Bachelor,2,Married,1,Female,Part-time,No,9397,Education,2020-02-23 13:44:30.270270240
+3,12208,52,High School,2,Married,1,Female,Unemployed,Yes,5880,Other,2022-04-04 21:58:55.135135104
+3,4599,43,Master,2,Married,2,Female,Part-time,No,3868,Car,2019-12-23 10:14:03.243243232
+0,8227,45,Master,3,Single,nan,Male,Full-time,Yes,1612,Medical,2019-06-19 23:42:42.162162144
+nan,2808,27,PhD,nan,Divorced,1,Female,Self-employed,Yes,9339,Other,2014-04-17 00:20:10.810810810
+4,1521,64,Master,4,Widowed,3,Female,Full-time,Yes,1872,Education,2015-11-30 05:31:31.891891888
+1,21,37,Bachelor,2,Single,2,Male,Full-time,Yes,4398,Car,2018-05-13 20:46:50.810810800
+0,nan,18,Master,2,Single,1,Female,Self-employed,Yes,1717,Business,2015-10-13 16:57:39.459459456
+0,10816,18,High School,3,Widowed,1,Male,Self-employed,Yes,4818,Home,2020-02-27 05:28:38.918918912
+1,2353,62,Bachelor,2,Married,nan,Female,Self-employed,No,nan,Home,2020-10-07 05:21:26.486486464
+2,14451,69,Bachelor,3,Married,2,Male,Part-time,No,9730,Medical,2018-09-26 03:00:10.810810784
+2,7980,31,High School,2,Married,3,Male,Full-time,No,nan,Education,2020-05-03 00:43:14.594594592
+1,406,44,High School,1,Single,nan,Male,Part-time,No,5520,Education,2015-05-02 04:51:10.270270264
+3,nan,41,High School,4,Married,3,Female,Self-employed,Yes,nan,Home,2022-01-07 04:19:27.567567552
+0,14414,52,nan,3,Married,4,Female,Part-time,nan,9549,Car,2017-02-10 21:48:49.729729728
+1,13059,59,High School,3,Single,nan,Male,Self-employed,Yes,9494,Education,2021-05-10 21:45:56.756756736
+1,1925,58,High School,1,Married,4,Male,Unemployed,No,4616,Business,2014-03-29 17:39:27.567567567
+2,14294,60,Bachelor,3,Divorced,4,Male,Self-employed,Yes,2654,Business,2017-09-14 14:13:19.999999984
+3,3714,37,Master,3,Married,nan,Male,Full-time,No,9451,Education,2019-03-31 13:31:31.891891872
+0,2353,38,High School,3,Single,1,Male,Full-time,No,9808,Education,2017-03-08 11:57:50.270270256
+2,13331,56,nan,3,Married,3,Male,Full-time,Yes,5574,Home,2016-04-17 03:29:00.540540528
+2,nan,44,PhD,4,Divorced,3,Male,Part-time,No,5979,Medical,2015-01-05 05:18:33.513513512
+0,12636,41,Bachelor,1,Divorced,2,Male,Full-time,Yes,1735,Home,2018-06-30 09:20:43.243243232
+3,116,20,Master,4,Divorced,4,Male,Self-employed,No,6330,Medical,2017-10-10 04:22:20.540540528
+0,2421,63,High School,2,Single,4,Male,Unemployed,No,5329,Business,2022-11-17 13:35:51.351351328
+0,726,67,Bachelor,2,Divorced,3,Male,Full-time,Yes,6720,Medical,2023-01-04 02:09:43.783783776
+nan,271,27,Master,2,Divorced,3,Male,Part-time,Yes,5892,Home,2016-01-09 10:37:07.027027024
+nan,9135,63,High School,3,Single,2,Female,Unemployed,Yes,8627,Education,2016-08-30 09:42:20.540540528
+4,nan,40,High School,1,Married,4,Male,Full-time,No,8616,Medical,2023-11-03 12:13:41.621621568
+1,2808,47,Bachelor,nan,Married,1,Female,Full-time,Yes,8861,Home,2018-08-13 06:10:27.027027008
+0,2719,nan,High School,3,Divorced,4,Female,Unemployed,No,1854,Business,2017-08-23 15:48:28.108108096
+3,nan,31,nan,3,Single,nan,Female,Full-time,nan,8062,Other,2021-05-03 14:17:39.459459456
+2,9153,40,High School,2,Married,4,Male,Part-time,Yes,7233,Medical,2015-01-12 12:46:50.810810808
+0,1640,21,Master,2,nan,3,Female,Self-employed,nan,1961,Business,2015-02-07 02:55:51.351351348
+2,10828,27,Bachelor,nan,Divorced,4,Male,Self-employed,No,3472,Business,2018-04-10 23:09:32.972972960
+0,9579,18,Master,4,nan,1,Female,Unemployed,Yes,4642,Car,2023-12-13 17:19:16.756756736
+nan,11760,37,Bachelor,4,nan,1,Male,Self-employed,Yes,9451,Other,2018-09-07 20:19:27.567567552
+1,458,35,Bachelor,3,Single,4,Male,Full-time,No,3809,Medical,2019-10-22 06:43:36.216216192
+3,11551,64,PhD,1,Divorced,4,Female,Full-time,Yes,725,Home,2022-09-12 18:21:15.675675648
+1,12803,20,Bachelor,3,Married,4,Female,Part-time,Yes,2002,Medical,2021-09-12 04:46:50.810810784
+2,nan,62,Bachelor,1,Widowed,3,Male,Self-employed,Yes,8145,Medical,2020-10-18 04:33:52.432432416
+2,9175,19,Bachelor,4,Single,1,Female,Unemployed,No,1099,Other,2022-01-18 03:31:53.513513504
+0,2430,68,Master,1,nan,3,Male,Full-time,No,7346,Business,2022-11-10 06:07:34.054054048
+nan,7519,nan,Bachelor,2,Divorced,1,Male,Unemployed,No,4987,Business,2019-08-10 04:00:43.243243232
+3,12962,22,nan,3,Divorced,nan,Male,Full-time,Yes,8411,Business,2016-06-29 06:11:53.513513504
+nan,10693,23,High School,4,Single,2,Female,Full-time,No,4378,Business,2018-10-25 08:53:20.000000000
+4,974,57,Bachelor,3,Single,1,Male,Part-time,nan,5864,Other,2017-04-21 08:47:34.054054048
+2,9131,59,Master,3,Divorced,4,Male,Self-employed,Yes,3493,Home,2023-04-27 09:58:11.891891840
+nan,6573,42,Master,2,Single,3,Male,Part-time,Yes,9087,Education,2019-11-13 05:08:28.108108096
+0,nan,44,PhD,3,Widowed,1,Male,Self-employed,No,6536,Car,2016-01-02 03:08:49.729729728
+0,7014,42,nan,1,Single,3,Female,Unemployed,No,4445,Business,2018-07-15 00:17:17.837837824
+0,11722,28,Bachelor,1,Divorced,4,Female,Self-employed,No,6499,Business,2019-01-13 19:04:30.270270272
+1,9126,47,High School,2,Married,2,Female,Unemployed,nan,598,Car,2019-06-16 07:58:33.513513504
+1,9110,32,High School,nan,Divorced,3,Female,Full-time,No,7459,Business,2022-04-04 21:58:55.135135104
+1,1136,34,Master,3,Divorced,4,Male,Unemployed,Yes,6672,Education,2015-02-07 02:55:51.351351348
+4,12643,49,PhD,3,Married,2,Male,Unemployed,No,5017,Medical,2023-05-01 01:42:20.540540544
+1,6656,62,High School,nan,Single,1,Male,Full-time,No,9084,Car,2022-08-21 19:56:23.783783776
+1,8592,56,High School,nan,Single,nan,Male,Unemployed,nan,6077,Home,2022-04-12 05:27:12.432432416
+2,5084,35,High School,1,Married,4,Male,Unemployed,Yes,6652,Car,2023-01-29 16:18:44.324324288
+0,7214,27,PhD,2,Married,2,Male,Full-time,No,6285,Education,2021-06-27 10:19:49.189189184
+4,8680,21,Bachelor,4,Divorced,3,Female,Full-time,No,5076,Other,2019-06-09 00:30:16.216216192
+0,6090,43,Bachelor,2,Married,2,Male,Full-time,Yes,5520,Home,2016-01-31 09:01:58.918918912
+nan,3633,35,Bachelor,4,Married,4,Male,Self-employed,Yes,1421,Medical,2020-06-08 14:04:41.081081056
+3,8230,nan,PhD,4,Married,4,Male,Full-time,No,nan,Business,2020-03-05 12:56:56.216216192
+0,11344,68,Master,4,Single,4,Female,Full-time,Yes,7493,Car,2014-04-27 23:32:36.756756756
+0,8465,19,Master,4,Married,2,Male,Unemployed,No,nan,Home,2019-07-19 05:35:51.351351328
+4,4473,46,High School,3,nan,2,Male,Part-time,No,5668,Car,2022-10-19 07:42:42.162162144
+3,10246,67,Bachelor,4,Widowed,2,Male,Part-time,Yes,2895,Medical,2015-01-23 11:59:16.756756756
+3,nan,54,Master,2,Married,1,Female,Self-employed,nan,8086,Car,2016-08-23 02:14:03.243243232
+3,2958,49,nan,2,Married,3,Male,Self-employed,No,nan,Home,2016-04-02 12:32:25.945945944
+0,nan,66,High School,3,Widowed,3,Male,Part-time,No,1961,Education,2018-11-12 15:34:03.243243232
+1,11339,38,High School,4,Married,2,Female,Part-time,Yes,1571,Other,2015-10-13 16:57:39.459459456
+0,7119,57,High School,4,Single,4,Male,Full-time,nan,8027,Home,2016-03-18 21:35:51.351351344
+4,6402,66,Bachelor,3,Single,2,Female,Unemployed,Yes,5740,Car,2017-09-10 22:29:11.351351344
+3,13156,52,PhD,3,Married,2,Male,Full-time,Yes,8603,Medical,2020-05-13 23:55:40.540540512
+1,9816,66,High School,nan,nan,1,Female,Self-employed,Yes,9868,Business,2021-11-17 00:01:26.486486464
+0,9126,62,Bachelor,4,Divorced,3,Male,Part-time,Yes,9559,Business,2015-08-30 20:07:55.675675672
+1,11703,45,Bachelor,2,Single,nan,Male,Self-employed,No,9264,Medical,2020-08-17 01:03:25.405405376
+1,5704,22,High School,3,Single,3,Female,Full-time,nan,725,Car,2019-07-11 22:07:34.054054048
+3,3993,18,Bachelor,2,Divorced,3,Male,Self-employed,No,3985,Other,2016-12-29 00:59:05.945945936
+3,4806,38,High School,2,Widowed,3,Male,Self-employed,Yes,5794,Medical,2017-10-21 03:34:46.486486480
+4,4555,36,Bachelor,3,Divorced,4,Female,Unemployed,Yes,9533,Car,2014-05-05 07:00:54.054054054
+2,11303,64,Master,3,Divorced,1,Male,Self-employed,No,6513,Home,2018-01-24 04:42:31.351351344
+0,7287,45,Bachelor,3,Single,2,Female,Full-time,Yes,9251,Other,2019-01-06 11:36:12.972972960
+3,5392,37,High School,1,Widowed,4,Male,Unemployed,No,3089,Education,2017-02-18 05:17:07.027027024
+3,7099,36,nan,4,Divorced,nan,Female,Self-employed,No,nan,Car,2022-02-27 08:37:28.648648640
+2,125,37,Master,1,Single,3,Male,Full-time,No,6077,Business,2021-06-05 11:54:57.297297280
+3,1875,45,Master,4,Divorced,1,Male,Part-time,Yes,7395,Business,2021-04-08 00:08:38.918918912
+2,5604,28,High School,3,Single,3,Female,Unemployed,No,4000,Other,2022-04-04 21:58:55.135135104
+2,10971,50,High School,1,Single,3,Male,Self-employed,Yes,5126,Education,2015-01-01 13:34:24.864864864
+2,9135,64,High School,4,Single,3,Female,Self-employed,Yes,6088,Car,2019-09-08 09:53:52.432432416
+0,10828,46,High School,3,Single,3,Female,Unemployed,No,9761,Education,2016-02-22 07:26:50.810810808
+0,2808,23,Bachelor,2,Married,2,Female,Full-time,nan,1758,Home,2023-05-08 09:10:37.837837824
+0,5208,44,nan,2,Married,4,Male,Self-employed,No,nan,Education,2020-09-04 07:44:08.648648640
+3,1058,20,Bachelor,4,Married,3,Male,Full-time,nan,9528,Home,2019-10-04 00:02:52.972972960
+1,8213,46,High School,2,Married,4,Male,Unemployed,No,9435,Business,2014-08-11 23:52:47.567567568
+2,6563,nan,Bachelor,2,Single,1,Female,Self-employed,Yes,5740,Home,2022-07-05 07:22:31.351351328
+nan,nan,35,High School,1,Single,2,Female,Part-time,No,9739,Car,2017-09-07 06:45:02.702702688
+1,3712,36,Master,2,Divorced,4,Female,Part-time,Yes,669,Other,2017-09-03 15:00:54.054054048
+2,5724,69,Bachelor,1,Married,nan,Male,Part-time,Yes,5223,Other,2019-09-26 16:34:35.675675648
+3,9299,52,Master,4,Single,3,Female,Unemployed,No,5928,Car,2014-12-06 23:25:24.324324324
+1,3638,19,nan,2,Widowed,2,Male,Self-employed,No,3406,Car,2018-09-07 20:19:27.567567552
+0,3380,66,High School,4,Divorced,3,Male,Unemployed,No,9696,Car,2023-11-03 12:13:41.621621568
+1,5047,40,Bachelor,3,Widowed,4,Male,Self-employed,Yes,3854,Medical,2022-07-12 14:50:48.648648640
+0,12741,52,nan,1,Married,nan,Male,Part-time,Yes,1076,Home,2014-04-02 09:23:36.216216216
+nan,3173,34,Master,4,Single,1,Male,Part-time,Yes,610,Car,2018-05-06 13:18:33.513513504
+4,13613,39,Bachelor,3,Divorced,3,Male,Full-time,Yes,2848,Other,2015-03-15 16:17:17.837837832
+3,3249,60,nan,2,Single,2,Male,Unemployed,Yes,4242,Education,2014-06-29 03:03:03.783783782
+4,11404,25,High School,1,Married,nan,Male,Unemployed,No,3366,Education,2022-10-30 06:55:08.108108096
+4,6656,28,nan,4,Single,4,Female,Full-time,No,9474,Medical,2021-08-21 06:21:58.918918912
+0,7561,68,High School,2,Widowed,1,Male,Part-time,Yes,8029,Home,2014-05-08 22:45:02.702702702
+4,nan,41,Bachelor,2,Single,1,Male,Part-time,No,6803,Home,2018-02-04 03:54:57.297297280
+2,1265,64,PhD,nan,nan,2,Female,Unemployed,Yes,1525,Home,2016-11-18 19:53:30.810810800
+4,8502,45,High School,3,Widowed,2,Female,Self-employed,nan,7810,Other,2017-10-13 20:06:29.189189184
+4,11677,49,Bachelor,3,Married,2,Female,Part-time,Yes,3392,Other,2014-12-28 21:50:16.216216212
+1,125,60,Bachelor,4,Divorced,2,Female,Full-time,No,572,Medical,2017-03-26 18:38:33.513513504
+0,14954,38,nan,1,Divorced,3,Male,Full-time,nan,1722,Home,2017-04-14 01:19:16.756756752
+1,38,32,PhD,4,Widowed,2,Female,Full-time,No,3109,Home,2020-06-23 05:01:15.675675648
+2,14749,54,Master,1,Married,1,Female,Unemployed,Yes,nan,Car,2021-01-21 05:41:37.297297280
+4,10030,55,Bachelor,2,Divorced,3,Female,Unemployed,No,9962,Home,2016-03-15 05:51:42.702702696
+4,14940,27,PhD,2,Married,4,Female,Unemployed,Yes,2895,Other,2021-11-27 23:13:52.432432416
+0,13598,39,Bachelor,2,nan,3,Male,Unemployed,Yes,5840,Car,2022-05-18 18:48:38.918918912
+2,13373,49,Bachelor,4,Married,3,Female,Full-time,Yes,5819,Car,2019-09-01 02:25:35.135135136
+2,13910,39,Master,nan,Married,3,Female,Full-time,nan,nan,Home,2023-05-23 00:07:12.432432384
+1,1394,61,Bachelor,1,Divorced,3,Female,Unemployed,nan,5647,Education,2023-12-17 09:03:25.405405376
+0,3453,59,High School,1,Widowed,1,Female,Unemployed,Yes,nan,Business,2015-02-03 11:11:42.702702700
+1,7294,21,High School,2,Married,2,Male,Full-time,No,7205,Other,2015-06-26 00:53:20.000000000
+nan,nan,55,High School,1,Single,3,Female,Unemployed,nan,nan,Education,2018-01-20 12:58:22.702702688
+1,14356,54,PhD,1,Married,3,Female,Unemployed,No,6333,Home,2021-10-07 18:55:51.351351328
+2,8173,45,Bachelor,nan,nan,4,Female,Unemployed,Yes,2457,Home,2020-09-26 06:09:00.540540512
+3,11563,31,Master,3,Divorced,3,Male,Unemployed,No,4238,Education,2020-12-26 15:32:36.756756736
+1,nan,48,Bachelor,2,Widowed,2,Female,Part-time,No,1317,Home,2018-02-04 03:54:57.297297280
+nan,nan,50,High School,3,Single,4,Female,Unemployed,No,881,Other,2015-04-13 22:10:27.027027024
+nan,nan,20,Bachelor,1,Married,3,Male,Full-time,No,3739,Car,2018-11-01 16:21:37.297297280
+1,14025,34,Master,2,Divorced,3,Female,Full-time,Yes,7573,Medical,2015-01-27 03:43:25.405405404
+2,5208,23,Master,3,Widowed,3,Male,Full-time,Yes,nan,Home,2017-11-19 09:27:55.675675664
+1,2863,20,nan,1,Single,4,Male,Full-time,Yes,1397,Home,2018-03-30 23:57:07.027027024
+1,6257,49,Master,nan,Widowed,nan,Female,Unemployed,Yes,5358,Education,2018-06-19 10:08:17.297297280
+0,8056,30,Bachelor,2,Married,1,Female,Part-time,No,1525,Car,2023-03-07 05:40:10.810810816
+3,nan,37,Master,2,Single,1,Male,Self-employed,Yes,8500,Education,2014-09-02 22:17:39.459459456
+2,10745,66,nan,1,Married,4,Male,Self-employed,No,2848,Other,2023-06-10 06:47:55.675675648
+0,7312,69,Master,3,Single,4,Female,Self-employed,Yes,4574,Education,2014-08-26 14:49:22.162162160
+1,14036,62,High School,4,Married,1,Male,Self-employed,No,1821,Home,2020-07-22 10:54:24.864864864
+nan,13395,26,Bachelor,2,Single,4,Male,Full-time,nan,3406,Car,2023-10-05 06:20:32.432432384
+1,12289,30,Master,4,Single,3,Female,Unemployed,No,4692,Other,2019-08-24 18:57:17.837837824
+0,13125,29,Master,1,Widowed,2,Male,Unemployed,nan,4994,Home,2020-05-24 23:08:06.486486464
+2,12155,30,High School,3,Single,1,Male,Self-employed,No,2761,Other,2019-01-13 19:04:30.270270272
+nan,3155,52,PhD,2,Single,1,Male,Self-employed,Yes,8757,Home,2019-01-13 19:04:30.270270272
+1,9444,53,nan,3,Married,3,Male,Part-time,nan,8500,Home,2023-10-27 04:45:24.324324288
+3,7099,36,High School,1,Married,3,Male,Part-time,No,9154,Home,2017-03-15 19:26:07.567567552
+3,10874,23,PhD,4,Divorced,4,Male,Part-time,No,5364,Medical,2021-03-09 18:15:29.729729728
+1,11022,36,High School,2,Married,4,Female,Full-time,No,2540,Business,2022-04-26 20:23:47.027027008
+3,5445,45,High School,1,Divorced,4,Male,Unemployed,No,6778,Car,2021-04-11 15:52:47.567567552
+1,4440,nan,High School,4,Divorced,2,Female,Full-time,Yes,6102,Medical,2019-10-18 14:59:27.567567552
+3,2359,69,High School,3,Single,1,Female,Full-time,No,6276,Business,2018-06-19 10:08:17.297297280
+3,7029,52,PhD,2,Single,3,Female,Unemployed,Yes,9209,Other,2019-09-26 16:34:35.675675648
+2,9579,63,High School,2,Married,3,Female,Part-time,Yes,949,Business,2016-02-04 00:46:07.567567560
+0,140,24,High School,4,Married,1,Female,Unemployed,No,640,Business,2022-06-27 23:54:14.054054048
+4,12040,48,High School,1,Divorced,2,Female,Self-employed,No,nan,Medical,2022-05-22 10:32:47.567567552
+1,936,66,High School,3,Married,2,Female,Part-time,Yes,9528,Car,2017-09-10 22:29:11.351351344
+0,8680,47,High School,2,Married,3,Female,Unemployed,No,5586,Education,2023-05-30 07:35:29.729729728
+0,7115,62,Master,3,Single,1,Male,Full-time,No,6088,Business,2019-08-21 03:13:09.189189184
+2,4760,63,High School,2,Single,4,Female,Unemployed,No,nan,Education,2020-04-11 02:18:22.702702688
+3,14663,60,PhD,3,Married,1,Female,Part-time,No,nan,Education,2022-12-05 20:16:34.594594560
+0,2421,33,PhD,3,Married,3,Female,Self-employed,nan,9533,Home,2018-07-29 15:13:52.432432416
+2,7206,57,High School,1,Married,2,Male,Full-time,Yes,1481,Education,2022-12-13 03:44:51.891891872
+1,5445,35,PhD,2,Single,2,Female,Self-employed,No,8577,Other,2019-10-07 15:47:01.621621600
+3,10361,69,High School,4,Divorced,4,Male,Self-employed,Yes,7487,Other,2020-06-01 06:36:23.783783776
+0,9013,36,High School,3,Widowed,3,Female,Full-time,Yes,7807,Home,2020-11-20 02:11:10.270270240
+3,11040,32,High School,1,Single,nan,Female,Unemployed,No,2405,Car,2021-11-24 07:29:43.783783776
+1,6570,32,Bachelor,1,Married,2,Male,Unemployed,No,6414,Car,2023-12-02 18:06:50.810810816
+nan,nan,56,Bachelor,nan,nan,1,Female,Self-employed,Yes,532,Other,2023-04-01 19:49:11.351351360
+0,5390,65,Master,3,Married,2,Male,Unemployed,Yes,1216,Home,2015-08-16 05:11:21.081081080
+1,5757,62,Bachelor,3,Married,2,Male,Part-time,No,3752,Car,2023-10-08 22:04:41.081081088
+0,nan,48,Master,2,Single,3,Female,Self-employed,No,1519,Business,2017-04-25 00:31:42.702702688
+nan,269,nan,High School,2,Divorced,1,Female,Self-employed,No,662,Car,2020-08-20 16:47:34.054054048
+4,7014,67,Master,4,Single,3,Male,Self-employed,Yes,1159,Home,2017-06-29 19:46:18.378378368
+1,nan,67,High School,3,nan,4,Male,Part-time,No,3637,Other,2021-06-23 18:35:40.540540512
+3,3530,56,High School,4,Divorced,2,Female,Self-employed,Yes,nan,Business,2020-09-11 15:12:25.945945920
+4,5895,38,High School,4,Divorced,3,Female,Unemployed,Yes,9696,Education,2018-09-04 04:35:18.918918912
+2,12473,30,High School,3,Divorced,4,Female,Unemployed,No,606,Education,2018-04-03 15:41:15.675675664
+2,12713,57,Bachelor,1,Married,4,Male,Unemployed,No,2628,Education,2017-04-06 17:50:59.459459456
+1,9710,62,PhD,4,Married,2,Female,Unemployed,Yes,7673,Other,2015-01-19 20:15:08.108108104
+0,10693,53,High School,2,Widowed,4,Male,Self-employed,Yes,2654,Home,2022-03-06 16:05:45.945945920
+4,7206,45,Master,4,nan,4,Female,Part-time,No,2449,Education,2016-07-17 12:52:36.756756752
+nan,3762,27,Master,1,Married,1,Male,Full-time,Yes,3985,Car,2017-07-29 01:39:27.567567552
+3,8780,56,PhD,4,nan,4,Male,Unemployed,Yes,4378,Education,2023-09-02 08:43:14.594594560
+1,1388,52,High School,3,Married,4,Female,Full-time,Yes,3445,Medical,2018-06-08 10:55:51.351351344
+1,9078,29,Bachelor,2,Married,2,Male,Full-time,Yes,6607,Other,2015-02-14 10:24:08.648648648
+3,9631,52,nan,4,Married,4,Male,Self-employed,Yes,1416,Medical,2014-04-17 00:20:10.810810810
+4,4569,nan,Master,3,Single,2,Male,Unemployed,No,4853,Education,2019-03-27 21:47:23.243243232
+4,11521,60,Bachelor,nan,Single,3,Male,Unemployed,No,5794,Education,2020-11-20 02:11:10.270270240
+3,2043,57,High School,3,Single,2,Male,Unemployed,No,nan,Medical,2023-11-29 02:22:42.162162112
+3,11815,69,High School,nan,Married,nan,Female,Full-time,No,9497,Other,2022-07-01 15:38:22.702702688
+0,1229,66,Bachelor,2,Married,3,Female,Unemployed,No,2974,Other,2014-06-14 12:06:29.189189188
+0,10828,27,Master,1,Married,2,Male,Unemployed,nan,8306,Education,2015-09-14 11:04:30.270270264
+4,12327,nan,High School,4,nan,2,Female,Part-time,No,3590,Other,2015-04-17 13:54:35.675675672
+3,5370,26,Bachelor,2,Married,nan,Male,Self-employed,Yes,7473,Business,2021-07-26 16:12:58.378378368
+0,3712,nan,Bachelor,4,Married,2,Male,Unemployed,No,6838,Other,2017-07-10 18:58:44.324324320
+0,12592,43,Bachelor,3,Single,3,Female,Unemployed,Yes,6501,Medical,2016-01-09 10:37:07.027027024
+3,12091,nan,Master,4,Single,2,Male,Self-employed,No,6243,Home,2016-04-02 12:32:25.945945944
+0,2421,42,PhD,2,Divorced,1,Male,Self-employed,No,5003,Medical,2014-10-16 19:07:23.243243240
+0,4675,65,Bachelor,3,Married,1,Male,Full-time,No,nan,Car,2017-02-03 14:20:32.432432432
+2,9771,34,PhD,3,Divorced,4,Female,Full-time,No,9505,Business,2014-05-05 07:00:54.054054054
+3,1823,68,High School,3,Single,4,Female,Full-time,Yes,3177,Home,2019-08-21 03:13:09.189189184
+3,14202,51,High School,2,Married,4,Male,Self-employed,Yes,4624,Education,2015-08-08 21:43:03.783783776
+1,8592,52,High School,3,Single,4,Male,Part-time,Yes,nan,Car,2023-10-23 13:01:15.675675648
+3,14297,37,High School,1,Single,3,Male,Unemployed,Yes,6027,Car,2019-12-16 02:45:45.945945920
+1,14451,43,High School,2,Single,1,Male,Self-employed,Yes,2442,Business,2022-05-26 02:16:56.216216192
+1,12201,39,High School,nan,Single,3,Male,Part-time,Yes,nan,Home,2018-05-06 13:18:33.513513504
+3,9439,38,PhD,1,Married,3,Female,Self-employed,Yes,564,Car,2019-05-18 02:05:24.324324320
+3,5429,64,High School,4,Single,nan,Female,Part-time,nan,2865,Home,2016-03-29 20:48:17.297297296
+4,526,68,Master,4,nan,4,Female,Self-employed,Yes,8757,Home,2018-06-15 18:24:08.648648640
+3,3719,67,High School,2,Married,1,Female,Self-employed,Yes,7092,Other,2017-03-01 04:29:32.972972960
+2,12757,59,nan,4,Single,2,Male,Part-time,Yes,9932,Car,2020-08-28 00:15:51.351351328
+0,13350,69,Master,3,Single,2,Male,Part-time,No,2435,Home,2022-01-18 03:31:53.513513504
+1,5203,38,High School,2,Married,1,Female,Part-time,Yes,nan,Business,2018-02-18 18:51:31.891891888
+1,14202,42,Master,2,Single,3,Female,Part-time,No,8732,Car,2014-12-10 15:09:32.972972972
+1,13643,40,Bachelor,3,Widowed,4,Male,Part-time,Yes,nan,Business,2016-03-29 20:48:17.297297296
+nan,14924,64,Master,3,nan,4,Female,Part-time,No,2974,Business,2021-10-15 02:24:08.648648640
+1,nan,63,Bachelor,1,Single,2,Male,Part-time,No,9991,Home,2023-06-28 13:28:38.918918912
+4,956,43,Master,2,Married,1,Male,Part-time,Yes,9932,Home,2019-07-11 22:07:34.054054048
+3,13059,67,Master,4,Single,1,Male,Self-employed,Yes,5840,Other,2020-06-12 05:48:49.729729728
+3,2989,69,Bachelor,3,Divorced,1,Female,Part-time,No,5892,Other,2014-08-26 14:49:22.162162160
+2,575,nan,High School,2,Married,2,Female,Part-time,No,9762,Car,2017-12-18 15:21:04.864864848
+2,125,40,PhD,3,Single,4,Female,Self-employed,No,3225,Other,2023-08-04 02:50:05.405405376
+2,3930,27,Bachelor,4,Single,2,Female,Self-employed,No,5783,Education,2016-02-04 00:46:07.567567560
+0,9206,42,Bachelor,2,Divorced,2,Female,Full-time,No,4448,Car,2018-09-26 03:00:10.810810784
+3,14906,38,High School,1,Married,3,Male,Full-time,No,3812,Business,2020-08-24 08:31:42.702702688
+1,nan,30,Bachelor,2,Single,4,Female,Part-time,Yes,8121,Other,2020-11-01 19:30:27.027027008
+0,4873,27,nan,1,Divorced,3,Male,Part-time,Yes,1722,Other,2023-02-05 23:47:01.621621600
+3,11718,21,High School,3,Married,1,Male,Full-time,No,7232,Other,2022-05-15 03:04:30.270270240
+0,10030,57,Bachelor,3,Widowed,3,Male,Full-time,No,1179,Home,2019-09-15 17:22:09.729729728
+nan,9130,25,Master,2,Single,3,Female,Unemployed,nan,nan,Business,2020-12-15 16:20:10.810810784
+nan,9078,31,PhD,1,Divorced,3,Female,Unemployed,nan,5979,Other,2018-11-23 14:46:29.189189184
+nan,1389,46,Bachelor,2,Divorced,1,Female,Part-time,No,9084,Medical,2015-10-17 08:41:48.108108104
+1,3719,63,Bachelor,4,Single,1,Female,Unemployed,No,nan,Medical,2022-05-04 03:52:04.324324320
+0,nan,21,nan,3,Divorced,1,Female,Full-time,No,2171,Business,2022-05-11 11:20:21.621621600
+nan,14523,27,Master,4,Married,1,Female,Part-time,Yes,3854,Other,2019-03-27 21:47:23.243243232
+2,11383,52,High School,2,nan,1,Female,Self-employed,No,nan,Education,2018-08-02 06:58:01.081081056
+nan,7014,41,High School,3,Single,3,Female,Self-employed,Yes,nan,Education,2014-09-02 22:17:39.459459456
+nan,nan,nan,Bachelor,2,Divorced,3,Male,Full-time,Yes,6318,Car,2023-05-23 00:07:12.432432384
+4,14663,39,High School,2,Married,4,Female,Unemployed,No,3837,Car,2017-04-14 01:19:16.756756752
+1,12327,65,High School,2,nan,4,Male,Self-employed,No,nan,Other,2016-01-05 18:52:58.378378376
+1,12236,55,PhD,nan,Married,1,Male,Unemployed,Yes,3366,Car,2018-09-29 18:44:19.459459456
+4,1136,32,High School,4,nan,4,Male,Self-employed,Yes,9921,Home,2019-03-05 23:22:31.351351328
+1,6737,38,Master,1,nan,nan,Male,Unemployed,No,5682,Education,2014-02-21 04:18:01.081081081
+0,920,63,High School,2,Single,2,Female,Self-employed,No,1429,Business,2014-05-30 21:09:54.594594594
+2,3042,66,Master,3,Widowed,1,Female,Self-employed,No,5805,Other,2019-06-05 08:46:07.567567552
+nan,13042,22,Master,3,nan,2,Male,Part-time,Yes,7515,Other,2023-10-27 04:45:24.324324288
+3,2430,43,High School,2,Single,2,Male,Part-time,Yes,4247,Medical,2020-12-04 17:07:44.864864864
+2,8007,35,Bachelor,4,Married,4,Male,Full-time,Yes,1651,Education,2021-09-26 19:43:25.405405376
+0,5238,49,High School,1,Married,4,Female,Self-employed,No,6566,Education,2016-11-18 19:53:30.810810800
+3,9126,29,PhD,4,Single,1,Male,Unemployed,No,nan,Education,2023-04-01 19:49:11.351351360
+nan,nan,40,PhD,1,Single,3,Male,Self-employed,Yes,3463,Car,2019-04-29 19:24:41.081081056
+0,9905,46,Bachelor,3,Single,1,Female,Unemployed,Yes,1921,Home,2022-12-02 04:32:25.945945920
+2,12236,47,Bachelor,4,Single,3,Male,Unemployed,Yes,6421,Business,2020-12-08 08:51:53.513513504
+4,11244,66,Bachelor,2,Married,3,Female,Self-employed,No,961,Car,2020-12-15 16:20:10.810810784
+3,nan,68,Master,3,Single,2,Female,Unemployed,Yes,6374,Home,2016-06-07 07:47:01.621621616
+3,6527,29,Bachelor,4,Widowed,2,Male,Full-time,No,1903,Education,2022-08-14 12:28:06.486486464
+3,4585,44,High School,2,Divorced,4,Male,Part-time,No,9640,Home,2020-08-09 17:35:08.108108096
+1,13350,61,Bachelor,2,Single,3,Male,Unemployed,No,4303,Car,2021-09-04 21:18:33.513513504
+1,7848,24,High School,4,Divorced,1,Female,Self-employed,No,8911,Education,2020-02-12 14:32:04.324324320
+4,14732,36,Master,4,Divorced,4,Female,Part-time,Yes,7247,Car,2019-09-01 02:25:35.135135136
+4,11393,45,High School,nan,nan,2,Female,Full-time,No,5819,Business,2020-12-22 23:48:28.108108096
+4,14286,20,Master,1,Single,1,Male,Unemployed,No,nan,Education,2022-04-26 20:23:47.027027008
+nan,10532,67,High School,2,Single,2,Male,Unemployed,Yes,nan,Home,2019-12-23 10:14:03.243243232
+2,11556,57,High School,1,nan,1,Male,Part-time,No,8719,Car,2015-09-25 10:16:56.216216216
+2,14288,nan,Master,4,nan,2,Male,Unemployed,nan,4403,Medical,2023-10-19 21:17:07.027027008
+3,271,42,nan,1,Divorced,2,Male,Self-employed,Yes,3766,Home,2019-05-03 11:08:49.729729728
+3,12322,49,Master,3,Divorced,3,Male,Part-time,No,6276,Home,2019-02-01 01:45:13.513513504
+3,6609,60,High School,nan,Single,1,Female,Part-time,No,3490,Education,2016-06-07 07:47:01.621621616
+3,12060,20,High School,nan,Married,3,Female,Unemployed,No,4098,Other,2014-08-04 16:24:30.270270268
+4,8245,nan,PhD,3,Single,2,Female,Full-time,No,3493,Home,2015-01-12 12:46:50.810810808
+1,4806,28,Bachelor,1,Single,1,Male,Full-time,Yes,887,Car,2020-07-04 04:13:41.621621600
+1,10361,32,High School,1,Widowed,3,Female,Full-time,Yes,nan,Medical,2017-01-09 00:11:31.891891888
+0,8619,53,PhD,1,Single,4,Female,Full-time,No,1224,Business,2020-09-15 06:56:34.594594592
+2,7274,52,PhD,3,Married,1,Female,Part-time,No,3534,Medical,2021-06-09 03:39:05.945945920
+0,988,42,nan,4,nan,4,Male,Part-time,nan,4386,Car,2014-10-05 19:54:57.297297296
+2,9847,25,nan,4,Single,4,Male,Unemployed,Yes,5819,Education,2014-03-04 03:30:27.027027027
+2,10698,18,PhD,3,nan,2,Female,Full-time,No,2039,Car,2019-05-03 11:08:49.729729728
+1,13331,53,High School,3,nan,2,Male,Full-time,Yes,8217,Other,2015-10-31 23:38:22.702702696
+2,7114,62,High School,3,Married,2,Male,Unemployed,Yes,3472,Other,2020-07-26 02:38:33.513513504
+0,nan,53,Bachelor,2,Single,3,Male,Unemployed,Yes,nan,Other,2019-06-30 22:55:08.108108096
+0,14287,55,Bachelor,3,Married,4,Male,Unemployed,Yes,1239,Home,2016-10-20 14:00:21.621621616
+4,nan,19,Bachelor,1,Married,1,Female,Self-employed,Yes,nan,Education,2016-11-15 04:09:22.162162160
+1,8190,19,Bachelor,1,Married,4,Male,Unemployed,Yes,9141,Other,2020-07-18 19:10:16.216216192
+0,8202,32,Bachelor,4,Single,1,Female,Unemployed,Yes,2392,Business,2019-03-31 13:31:31.891891872
+2,nan,43,Bachelor,1,nan,3,Female,Self-employed,nan,5509,Business,2020-12-22 23:48:28.108108096
+3,14296,39,High School,1,Single,3,Male,Full-time,No,8559,Car,2018-09-26 03:00:10.810810784
+1,13547,65,High School,3,Divorced,2,Male,Part-time,Yes,3199,Other,2023-06-17 14:16:12.972972928
+3,13245,59,Bachelor,4,Single,3,Male,Full-time,No,4813,Home,2016-08-30 09:42:20.540540528
+0,10181,62,Master,3,Married,3,Female,Part-time,No,1859,Business,2021-10-22 09:52:25.945945920
+0,9444,29,High School,2,nan,4,Female,Part-time,No,3889,Medical,2020-02-01 15:19:38.378378368
+2,12289,44,Bachelor,1,Single,4,Female,Unemployed,Yes,7757,Education,2023-06-17 14:16:12.972972928
+2,13647,28,Master,1,Single,4,Female,Unemployed,No,1805,Medical,2017-07-25 09:55:18.918918912
+3,3762,65,Bachelor,4,Divorced,2,Female,Self-employed,No,5803,Business,2022-01-21 19:16:02.162162144
+3,11130,52,High School,4,Divorced,4,Female,Full-time,Yes,1835,Business,2014-01-01 00:00:00.000000000
+nan,12668,nan,Bachelor,4,Divorced,1,Female,Full-time,nan,3783,Car,2022-01-25 11:00:10.810810784
+2,4356,46,High School,3,Married,4,Male,Part-time,No,3534,Car,2014-04-06 01:07:44.864864864
+1,936,23,nan,1,Single,4,Female,Unemployed,nan,9222,Other,2019-06-23 15:26:50.810810784
+3,nan,24,High School,3,nan,3,Female,Unemployed,Yes,5364,Education,2015-08-05 05:58:55.135135128
+1,1742,27,Master,1,nan,4,Female,Full-time,Yes,nan,Other,2023-05-15 16:38:55.135135104
+2,nan,65,High School,1,Married,4,Female,Self-employed,Yes,nan,Car,2017-12-25 22:49:22.162162160
+0,12155,21,Bachelor,4,Widowed,1,Male,Unemployed,nan,9264,Home,2019-06-05 08:46:07.567567552
+0,7832,38,Bachelor,1,Married,1,Female,Self-employed,Yes,9962,Education,2015-04-06 14:42:09.729729728
+nan,3342,31,High School,4,Married,3,Female,Full-time,No,2002,Home,2021-09-26 19:43:25.405405376
+4,8227,36,Bachelor,4,Single,3,Male,Full-time,Yes,5175,Other,2022-07-27 05:47:23.243243232
+3,6116,34,High School,1,Married,3,Male,Self-employed,Yes,8235,Car,2023-06-24 21:44:30.270270272
+2,213,58,Bachelor,4,Married,1,Female,Unemployed,Yes,922,Education,2016-02-04 00:46:07.567567560
+0,10339,nan,Master,4,Single,3,Female,Full-time,No,922,Other,2015-06-29 16:37:28.648648648
+0,5913,34,Bachelor,3,Married,1,Female,Part-time,No,6579,Business,2014-04-20 16:04:19.459459458
+1,4497,35,PhD,3,Divorced,3,Female,Full-time,Yes,907,Other,2020-02-12 14:32:04.324324320
+2,14113,55,Master,4,Divorced,4,Female,Unemployed,No,nan,Medical,2022-05-29 18:01:04.864864832
+3,14331,48,Bachelor,1,Divorced,1,Female,Part-time,No,6027,Business,2017-01-05 08:27:23.243243232
+3,nan,38,High School,3,nan,4,Male,Full-time,No,6621,Home,2023-08-18 17:46:40.000000000
+1,12875,32,Bachelor,3,Single,4,Male,Unemployed,No,3854,Business,2022-08-25 11:40:32.432432416
+nan,4703,nan,Master,1,Married,4,Female,Unemployed,Yes,3278,Other,2021-04-22 15:05:13.513513504
+3,5604,45,High School,4,Divorced,1,Female,Full-time,Yes,5559,Business,2021-08-24 22:06:07.567567552
+2,14451,60,PhD,1,Married,4,Female,Unemployed,No,6418,Medical,2020-10-29 03:46:18.378378368
+3,3432,38,High School,3,Married,2,Male,Self-employed,Yes,2955,Other,2016-07-24 20:20:54.054054048
+2,8907,24,PhD,3,Single,1,Female,Part-time,No,2606,Medical,2023-05-26 15:51:21.081081088
+1,11296,60,High School,4,Widowed,3,Male,Self-employed,Yes,8642,Business,2014-07-24 17:12:04.324324324
+1,8465,55,PhD,nan,Married,3,Male,Full-time,No,2921,Medical,2014-01-30 05:53:09.189189189
+3,12208,33,Bachelor,4,Widowed,4,Female,Self-employed,Yes,nan,Business,2014-01-15 14:56:34.594594594
+0,9989,18,High School,1,Married,1,Male,Full-time,No,756,Education,2022-06-20 16:25:56.756756736
+0,9752,64,High School,2,Divorced,1,Female,Full-time,Yes,nan,Business,2015-02-18 02:08:17.297297296
+0,nan,46,Bachelor,2,Widowed,1,Male,Unemployed,nan,3199,Car,2021-10-07 18:55:51.351351328
+0,294,64,nan,3,Divorced,4,Female,Unemployed,Yes,902,Medical,2020-11-05 11:14:35.675675648
+4,2946,27,High School,1,Married,3,Female,Full-time,No,2026,Medical,2021-04-26 06:49:22.162162144
+3,nan,38,High School,4,Married,3,Male,Part-time,No,3006,Home,2016-01-16 18:05:24.324324320
+2,12094,32,Bachelor,3,Widowed,2,Male,Part-time,No,6607,Home,2014-03-26 01:55:18.918918918
+0,125,42,Bachelor,1,Married,4,Male,Part-time,Yes,5509,Car,2018-12-04 13:58:55.135135136
+2,12808,56,Bachelor,4,Married,1,Female,Self-employed,No,5382,Medical,2023-09-13 07:55:40.540540544
+2,7052,41,Master,4,Single,3,Male,Full-time,Yes,899,Medical,2020-10-25 12:02:09.729729728
+0,7029,34,High School,4,nan,3,Male,Unemployed,Yes,5979,Home,2018-01-20 12:58:22.702702688
+2,9768,18,nan,3,Single,2,Female,Self-employed,No,4183,Home,2015-01-08 21:02:42.162162160
+1,4473,41,Bachelor,4,Divorced,4,Female,Self-employed,No,2405,Business,2014-08-04 16:24:30.270270268
+3,1521,23,High School,3,Married,1,Male,Unemployed,No,6536,Other,2014-11-07 17:32:15.135135132
+3,1290,nan,Master,2,Married,3,Male,Full-time,No,5182,Medical,2021-09-01 05:34:24.864864832
+0,5392,61,Master,1,Divorced,1,Male,Self-employed,Yes,6117,Medical,2020-10-07 05:21:26.486486464
+1,10574,33,Bachelor,1,Single,2,Female,Full-time,nan,3490,Business,2017-09-18 05:57:28.648648640
+3,6236,45,Master,4,Married,2,Female,Full-time,Yes,949,Medical,2020-10-14 12:49:43.783783776
+2,10929,38,High School,2,Divorced,4,Male,Full-time,No,3180,Car,2019-12-16 02:45:45.945945920
+4,11022,19,Bachelor,1,Widowed,4,Female,Unemployed,No,7973,Home,2023-09-13 07:55:40.540540544
+3,nan,32,PhD,4,Single,3,Male,Full-time,No,nan,Home,2016-01-05 18:52:58.378378376
+0,13373,30,High School,2,Widowed,1,Male,Self-employed,Yes,3428,Other,2020-01-07 01:10:37.837837824
+0,9274,53,Bachelor,nan,Divorced,3,Female,Unemployed,No,4994,Home,2014-11-18 16:44:41.081081080
+3,13774,69,PhD,nan,Widowed,2,Male,Unemployed,Yes,4424,Education,2018-05-13 20:46:50.810810800
+0,13156,69,nan,2,Married,2,Male,Self-employed,Yes,3253,Car,2015-03-12 00:33:09.189189184
+2,7287,62,Bachelor,3,Married,3,Female,Unemployed,Yes,nan,Car,2015-07-21 15:02:20.540540536
+nan,5468,67,Bachelor,4,nan,4,Male,Self-employed,No,5979,Business,2023-09-24 07:08:06.486486464
+2,3760,38,Bachelor,2,Widowed,2,Male,Part-time,Yes,6907,Education,2017-12-25 22:49:22.162162160
+1,7099,67,nan,4,Married,3,Female,Self-employed,Yes,2761,Medical,2020-12-30 07:16:45.405405376
+3,10030,39,PhD,4,Single,nan,Male,Unemployed,Yes,nan,Other,2015-11-15 14:34:57.297297296
+2,10874,44,High School,2,Married,2,Male,Self-employed,Yes,4076,Car,2021-09-26 19:43:25.405405376
+2,9127,61,Bachelor,2,Married,4,Female,Part-time,No,8262,Education,2014-07-06 10:31:21.081081080
+nan,7979,63,Bachelor,2,Single,1,Female,Full-time,nan,7854,Education,2020-07-07 19:57:50.270270240
+1,13245,66,Master,1,Single,3,Female,Full-time,Yes,9827,Car,2019-04-22 11:56:23.783783776
+nan,2844,nan,Master,1,Widowed,1,Male,Full-time,No,598,Business,2018-10-18 01:25:02.702702688
+nan,10971,44,Master,2,Single,3,Female,Unemployed,No,1473,Education,2019-11-13 05:08:28.108108096
+0,nan,46,nan,3,Divorced,3,Male,Part-time,No,1080,Home,2016-04-17 03:29:00.540540528
+0,12144,23,High School,1,Single,nan,Female,Self-employed,No,5852,Education,2018-10-21 17:09:11.351351328
+0,8503,67,High School,4,Married,2,Male,Self-employed,Yes,1835,Medical,2015-04-17 13:54:35.675675672
+0,1286,47,Bachelor,4,Single,2,Male,Self-employed,No,7299,Car,2014-07-17 09:43:47.027027026
+0,3610,28,Bachelor,4,Single,4,Female,Self-employed,Yes,nan,Medical,2016-09-14 00:38:55.135135136
+3,12094,34,High School,2,Divorced,2,Male,Unemployed,Yes,nan,Business,2023-08-07 18:34:14.054054016
+0,9155,35,High School,3,Widowed,2,Male,Unemployed,No,9197,Other,2014-12-28 21:50:16.216216212
+1,7175,30,Master,1,Single,3,Female,Part-time,No,4856,Home,2014-09-06 14:01:48.108108108
+4,9078,66,PhD,3,Married,2,Male,Self-employed,Yes,2892,Car,2023-02-09 15:31:10.270270240
+0,2604,39,Bachelor,1,Married,4,Male,Full-time,No,1415,Education,2016-12-25 09:14:57.297297296
+4,974,40,Bachelor,3,Widowed,2,Male,Unemployed,No,7168,Home,2023-09-13 07:55:40.540540544
+1,7833,27,High School,2,Divorced,3,Female,Part-time,No,2137,Education,2019-04-15 04:28:06.486486464
+0,11653,21,Master,1,Married,2,Female,Part-time,No,3671,Business,2017-07-14 10:42:52.972972960
+3,nan,25,Master,4,Divorced,2,Female,Unemployed,No,5438,Other,2020-04-11 02:18:22.702702688
+3,nan,67,Bachelor,2,Widowed,3,Female,Full-time,No,nan,Car,2015-07-07 00:05:45.945945944
+4,14551,21,High School,4,Single,4,Female,Full-time,Yes,824,Business,2017-04-17 17:03:25.405405392
+3,8476,52,High School,4,Married,3,Female,Self-employed,Yes,9274,Business,2015-02-25 09:36:34.594594592
+4,3380,nan,High School,3,nan,3,Female,Unemployed,Yes,7395,Other,2019-06-01 17:01:58.918918912
+1,8238,41,Bachelor,4,Divorced,2,Female,Full-time,No,1335,Business,2017-03-23 02:54:24.864864864
+0,13849,49,PhD,2,Married,4,Male,Unemployed,No,3985,Business,2019-08-17 11:29:00.540540512
+3,10396,nan,PhD,1,Married,2,Male,Part-time,nan,4853,Education,2019-09-19 09:06:18.378378368
+4,11128,34,Bachelor,3,Married,1,Male,Part-time,No,5916,Medical,2016-04-13 11:44:51.891891888
+nan,nan,50,Master,1,Married,4,Male,Part-time,Yes,8146,Education,2021-09-15 20:30:59.459459456
+2,13507,53,nan,2,Divorced,2,Female,Unemployed,Yes,3438,Other,2017-08-05 09:07:44.864864864
+1,9477,50,High School,3,Married,3,Male,Self-employed,Yes,8217,Home,2014-01-15 14:56:34.594594594
+3,10445,23,Bachelor,1,Divorced,1,Male,Self-employed,No,nan,Other,2014-04-09 16:51:53.513513513
+1,11130,47,nan,3,Widowed,3,Male,Full-time,No,5299,Other,2021-08-28 13:50:16.216216192
+nan,4473,67,Bachelor,2,Single,4,Male,Unemployed,nan,907,Other,2017-08-20 00:04:19.459459456
+4,4799,19,nan,2,Married,2,Male,Self-employed,No,9929,Other,2018-08-13 06:10:27.027027008
+2,nan,40,nan,3,Married,1,Female,Unemployed,No,nan,Business,2016-04-20 19:13:09.189189184
+3,1667,20,Master,3,Divorced,4,Female,Self-employed,No,564,Other,2017-12-11 07:52:47.567567552
+3,13156,69,PhD,3,Single,1,Male,Part-time,No,3783,Home,2023-09-06 00:27:23.243243200
+0,nan,28,Master,3,Divorced,2,Male,Part-time,No,nan,Other,2022-09-09 02:37:07.027027008
+nan,8357,30,Master,3,Widowed,1,Male,Full-time,No,8145,Education,2021-02-12 04:06:29.189189184
+2,14287,68,Bachelor,nan,Married,1,Male,Part-time,No,8502,Business,2022-06-09 17:13:30.810810784
+4,6737,52,High School,3,nan,3,Female,Self-employed,No,6885,Education,2016-09-14 00:38:55.135135136
+1,14296,42,Bachelor,2,nan,nan,Male,Full-time,Yes,7685,Business,2022-07-05 07:22:31.351351328
+4,nan,62,Master,3,Single,4,Female,Full-time,Yes,4911,Education,2017-01-12 15:55:40.540540528
+1,nan,nan,High School,1,Single,2,Male,Part-time,Yes,7470,Car,2017-10-28 11:03:03.783783776
+0,13239,47,High School,4,nan,4,Female,Unemployed,No,1179,Medical,2019-07-30 04:48:17.297297280
+nan,nan,38,High School,1,nan,3,Female,Part-time,No,2566,Medical,2014-04-09 16:51:53.513513513
+0,10238,60,Master,1,Single,4,Female,Part-time,Yes,5559,Business,2019-03-09 15:06:40.000000000
+1,207,51,nan,2,Single,3,Male,Full-time,Yes,5306,Car,2021-06-09 03:39:05.945945920
+nan,14171,68,nan,3,Single,1,Male,Part-time,Yes,2194,Home,2015-12-25 19:40:32.432432424
+nan,nan,29,Bachelor,1,nan,4,Female,Self-employed,No,nan,Car,2020-01-21 16:07:12.432432416
+2,nan,27,PhD,1,Single,1,Male,Full-time,Yes,793,Business,2014-10-24 02:35:40.540540540
+3,2278,68,Master,2,Married,3,Male,Part-time,Yes,5675,Car,2014-11-15 01:00:32.432432432
+2,8228,39,Bachelor,2,Widowed,3,Female,Unemployed,Yes,5223,Home,2017-11-23 01:12:04.324324320
+1,12595,46,Bachelor,1,Single,4,Male,Self-employed,Yes,1580,Business,2020-12-22 23:48:28.108108096
+1,968,48,High School,1,Divorced,1,Female,Unemployed,No,4167,Medical,2021-07-19 08:44:41.081081056
+3,11339,46,nan,2,Single,4,Male,Self-employed,Yes,1805,Other,2019-10-18 14:59:27.567567552
+3,8407,42,Bachelor,2,Widowed,1,Male,Unemployed,No,8027,Car,2022-03-24 22:46:29.189189184
+3,11996,20,Bachelor,2,Single,4,Female,Part-time,No,9197,Medical,2018-07-04 01:04:51.891891888
+3,12241,nan,Master,4,Divorced,nan,Female,Self-employed,nan,2002,Medical,2018-04-29 05:50:16.216216208
+0,686,28,Bachelor,2,Divorced,nan,Female,Full-time,Yes,2335,Education,2017-09-25 13:25:45.945945936
+2,526,43,High School,4,Single,4,Female,Full-time,Yes,4997,Home,2018-05-06 13:18:33.513513504
+0,5068,47,Master,4,Single,3,Male,Unemployed,Yes,640,Other,2015-11-11 22:50:48.648648648
+2,10246,59,High School,4,Married,4,Male,Unemployed,Yes,7936,Car,2021-07-04 17:48:06.486486464
+2,1,39,Master,2,Single,1,Male,Unemployed,No,2948,Medical,2017-11-23 01:12:04.324324320
+4,8906,47,Bachelor,3,Widowed,1,Female,Self-employed,Yes,6020,Medical,2016-03-04 06:39:16.756756752
+1,933,47,Master,4,Widowed,1,Male,Full-time,Yes,7007,Home,2015-01-27 03:43:25.405405404
+0,11563,49,Master,4,Married,4,Male,Part-time,No,5794,Other,2022-03-10 07:49:54.594594560
+0,10544,37,Bachelor,2,Divorced,4,Male,Self-employed,No,3671,Other,2019-06-30 22:55:08.108108096
+3,8901,25,Bachelor,4,Divorced,1,Female,Unemployed,Yes,3934,Medical,2023-01-26 00:34:35.675675648
+3,6116,24,Master,1,Widowed,4,Female,Full-time,Yes,5076,Medical,2023-06-24 21:44:30.270270272
+0,21,35,Master,3,Married,1,Male,Unemployed,Yes,5803,Medical,2017-06-26 04:02:09.729729728
+0,12676,19,Master,4,Single,2,Male,Part-time,nan,5404,Medical,2021-11-17 00:01:26.486486464
+3,362,27,PhD,1,Single,3,Female,Part-time,No,6565,Education,2019-03-20 14:19:05.945945920
+0,9905,29,High School,2,Married,3,Female,Full-time,No,6400,Education,2014-04-02 09:23:36.216216216
+4,8884,25,Bachelor,nan,Married,2,Female,Self-employed,nan,8217,Other,2014-06-21 19:34:46.486486486
+3,38,68,nan,4,Married,3,Female,Part-time,No,2974,Business,2022-08-03 13:15:40.540540512
+0,7561,52,Bachelor,4,Single,3,Male,Part-time,Yes,5221,Car,2017-09-10 22:29:11.351351344
+0,8601,53,High School,3,Divorced,4,Female,Part-time,Yes,9778,Home,2014-02-17 12:33:52.432432432
+nan,2356,46,Bachelor,2,Single,1,Male,Part-time,No,2246,Business,2020-02-12 14:32:04.324324320
+1,3633,40,High School,2,Single,3,Female,Unemployed,No,6513,Education,2015-11-11 22:50:48.648648648
+1,4675,33,High School,3,Married,3,Male,Unemployed,Yes,902,Education,2019-03-27 21:47:23.243243232
+4,10361,64,nan,3,Single,nan,Male,Self-employed,No,9871,Education,2022-11-02 22:39:16.756756736
+nan,10831,63,Bachelor,4,Married,4,Female,Full-time,nan,7337,Business,2022-11-28 12:48:17.297297280
+nan,2403,27,High School,1,Married,3,Male,Full-time,Yes,6565,Education,2016-10-13 06:32:04.324324320
+3,12057,64,nan,2,Married,4,Male,Full-time,No,1092,Business,2017-05-27 22:09:00.540540528
+1,9547,46,nan,3,Married,4,Male,Part-time,Yes,9108,Education,2017-04-10 09:35:08.108108096
+0,nan,67,Bachelor,1,Single,3,Female,Unemployed,No,6565,Medical,2020-10-14 12:49:43.783783776
+3,nan,55,High School,1,Single,3,Female,Unemployed,Yes,nan,Medical,2020-05-03 00:43:14.594594592
+2,nan,18,PhD,2,Widowed,4,Female,Self-employed,No,9084,Car,2023-01-18 17:06:18.378378368
+2,12529,32,Master,3,Married,1,Male,Full-time,No,8904,Education,2023-11-03 12:13:41.621621568
+nan,4346,48,Master,1,Married,1,Male,Unemployed,Yes,6268,Car,2020-01-25 07:51:21.081081056
+0,8032,39,PhD,2,Single,nan,Male,Self-employed,No,5783,Business,2014-03-29 17:39:27.567567567
+2,nan,56,Master,3,Married,1,Male,Full-time,No,3277,Car,2019-04-15 04:28:06.486486464
+0,6154,66,High School,4,Married,1,Female,Part-time,No,8370,Education,2018-04-03 15:41:15.675675664
+2,14663,63,Master,1,Married,3,Male,Unemployed,Yes,nan,Business,2014-04-13 08:36:02.162162162
+0,9094,49,Bachelor,1,Divorced,nan,Male,Unemployed,No,9283,Business,2023-07-24 03:37:39.459459456
+0,14899,35,Master,1,Single,2,Male,Full-time,Yes,789,Medical,2017-03-23 02:54:24.864864864
+0,9472,59,Master,1,Single,1,Female,Part-time,Yes,8355,Business,2022-07-12 14:50:48.648648640
+3,10573,38,High School,3,Widowed,4,Male,Part-time,Yes,nan,Business,2017-02-14 13:32:58.378378368
+3,12094,57,Bachelor,3,nan,2,Female,Unemployed,Yes,nan,Car,2019-11-02 05:56:02.162162144
+2,nan,57,Bachelor,3,Single,1,Female,Full-time,No,8210,Other,2016-09-10 08:54:46.486486480
+nan,3294,46,Bachelor,2,Married,1,Male,Self-employed,Yes,3472,Business,2021-08-13 22:53:41.621621600
+1,11040,54,Master,4,Single,2,Male,Unemployed,Yes,8577,Home,2016-12-10 18:18:22.702702688
+1,1667,64,Bachelor,3,Single,1,Male,Part-time,No,3752,Other,2020-07-22 10:54:24.864864864
+4,13910,46,Master,3,Married,4,Male,Self-employed,No,2993,Medical,2021-11-09 16:33:09.189189184
+1,nan,45,High School,2,Single,3,Female,Full-time,No,9336,Medical,2016-03-22 13:19:59.999999992
+nan,13258,69,Master,1,Divorced,2,Female,Part-time,Yes,4444,Business,2014-09-28 12:26:40.000000000
+0,14139,25,PhD,2,Married,1,Female,Self-employed,No,9274,Car,2015-01-05 05:18:33.513513512
+nan,2139,67,Master,2,Single,4,Female,Unemployed,Yes,7892,Other,2019-04-26 03:40:32.432432416
+0,13161,55,Bachelor,1,Single,2,Female,Part-time,nan,7205,Medical,2020-04-14 18:02:31.351351328
+4,7761,55,nan,2,Widowed,1,Female,Full-time,No,4956,Medical,2020-11-09 02:58:44.324324320
+2,nan,57,High School,4,Single,nan,Female,Part-time,No,8494,Home,2022-11-06 14:23:25.405405376
+nan,3389,60,High School,1,Divorced,1,Female,Unemployed,Yes,nan,Business,2015-09-21 18:32:47.567567560
+0,8219,46,Bachelor,1,Married,1,Female,Full-time,Yes,8062,Other,2014-01-11 23:12:25.945945945
+2,13598,32,High School,1,Married,1,Female,Unemployed,Yes,nan,Medical,2022-07-08 23:06:39.999999968
+nan,4356,66,nan,3,Married,4,Male,Self-employed,Yes,4260,Medical,2018-10-14 09:40:54.054054048
+2,nan,63,High School,1,Single,3,Male,Part-time,Yes,5194,Medical,2020-08-06 01:50:59.459459456
+3,3633,55,Master,4,Single,4,Male,Unemployed,No,2613,Medical,2017-12-11 07:52:47.567567552
+3,1435,39,Master,3,Single,2,Female,Self-employed,Yes,7233,Car,2020-04-03 18:50:05.405405376
+2,2632,23,High School,2,Married,2,Male,Full-time,No,6976,Education,2022-04-30 12:07:55.675675648
+3,nan,32,Master,2,Divorced,1,Female,Full-time,Yes,nan,Home,2023-02-20 14:43:36.216216192
+2,306,61,High School,1,Single,4,Female,Self-employed,Yes,7067,Car,2015-08-30 20:07:55.675675672
+nan,14906,nan,Bachelor,4,Single,1,Male,Self-employed,No,8679,Home,2016-12-29 00:59:05.945945936
+0,5387,30,High School,4,Married,2,Female,Full-time,No,9703,Medical,2023-12-06 09:50:59.459459456
+1,7052,42,nan,1,Divorced,2,Male,Unemployed,No,1735,Home,2015-03-04 17:04:51.891891888
+nan,11309,31,nan,3,nan,1,Female,Self-employed,Yes,9552,Business,2019-02-12 00:57:39.459459456
+4,9042,nan,High School,3,Married,2,Female,Unemployed,No,4873,Business,2020-02-12 14:32:04.324324320
+2,9108,65,High School,3,Married,3,Male,Full-time,Yes,nan,Education,2021-11-09 16:33:09.189189184
+3,4445,29,Master,3,Married,3,Male,Unemployed,Yes,1722,Education,2015-09-29 02:01:04.864864864
+1,13613,27,High School,4,nan,2,Male,Unemployed,No,8335,Home,2015-08-01 14:14:46.486486480
+0,38,62,PhD,3,Widowed,3,Male,Self-employed,Yes,572,Car,2017-11-01 02:47:12.432432416
+2,11303,65,Bachelor,3,Married,3,Male,Unemployed,Yes,nan,Car,2016-04-06 04:16:34.594594592
+1,9094,43,Bachelor,3,Single,4,Male,Unemployed,nan,1099,Medical,2023-05-08 09:10:37.837837824
+2,12281,58,PhD,4,Single,2,Female,Unemployed,No,7788,Car,2014-05-16 06:13:20.000000000
+0,10985,25,Bachelor,1,Married,1,Female,Full-time,Yes,4098,Education,2018-08-16 21:54:35.675675680
+nan,11653,68,nan,2,Divorced,3,Female,Full-time,No,8217,Car,2018-04-21 22:21:58.918918912
+nan,2050,55,nan,2,Married,4,Female,Part-time,Yes,9168,Medical,2021-02-04 20:38:11.891891872
+3,8213,48,High School,1,Single,4,Male,Full-time,No,1519,Business,2020-06-23 05:01:15.675675648
+2,nan,40,High School,2,Divorced,3,Female,Full-time,No,572,Car,2015-01-12 12:46:50.810810808
+1,nan,48,nan,1,Widowed,1,Female,Part-time,Yes,5109,Car,2023-10-27 04:45:24.324324288
+4,12373,51,nan,1,Single,4,Male,Part-time,Yes,5826,Education,2015-12-03 21:15:40.540540536
+3,3020,64,High School,4,Divorced,2,Female,Self-employed,Yes,8679,Home,2016-06-29 06:11:53.513513504
+0,11424,55,PhD,4,Married,2,Male,Self-employed,No,6613,Business,2014-02-13 20:49:43.783783783
+nan,12636,63,Bachelor,3,Widowed,4,Male,Full-time,No,9494,Home,2019-09-01 02:25:35.135135136
+4,10737,nan,High School,3,Widowed,2,Male,Unemployed,Yes,nan,Medical,2022-07-23 14:03:14.594594560
+nan,nan,45,PhD,3,Married,4,Female,Self-employed,Yes,9326,Medical,2019-12-19 18:29:54.594594592
+3,8032,30,High School,nan,Divorced,4,Male,Self-employed,Yes,4424,Home,2020-03-16 12:09:22.162162144
+3,8056,52,nan,1,Widowed,2,Female,Full-time,Yes,7727,Education,2019-07-19 05:35:51.351351328
+2,8476,20,High School,2,Married,3,Female,Unemployed,Yes,6607,Other,2017-11-15 17:43:47.027027024
+nan,12254,69,Master,4,Married,1,Female,Part-time,No,9970,Education,2014-09-13 21:30:05.405405404
+4,8586,19,High School,3,Divorced,1,Male,Part-time,No,8679,Other,2023-07-24 03:37:39.459459456
+0,9077,47,Bachelor,1,Single,4,Male,Full-time,nan,2491,Other,2021-10-18 18:08:17.297297280
+0,1798,33,Master,4,Married,4,Male,Full-time,nan,5913,Education,2019-09-15 17:22:09.729729728
+1,8920,nan,High School,2,Widowed,2,Female,Unemployed,No,2634,Other,2023-09-24 07:08:06.486486464
+4,nan,56,Bachelor,2,Divorced,3,Female,Full-time,No,1017,Other,2018-05-17 12:30:59.459459456
+nan,14287,40,Bachelor,4,Married,3,Male,Full-time,nan,7461,Other,2014-06-07 04:38:11.891891890
+0,3056,22,High School,1,Single,2,Female,Full-time,Yes,1113,Business,2016-09-17 16:23:03.783783776
+2,4430,67,PhD,2,Married,2,Male,Unemployed,Yes,2365,Medical,2023-01-07 17:53:52.432432416
+1,3427,18,Bachelor,2,Single,4,Male,Full-time,Yes,1271,Other,2014-02-17 12:33:52.432432432
+nan,11362,nan,Bachelor,1,Single,3,Female,Self-employed,No,8614,Medical,2017-09-14 14:13:19.999999984
+4,11996,63,Bachelor,3,Divorced,2,Female,Unemployed,No,nan,Medical,2015-02-10 18:39:59.999999996
+4,10527,63,Bachelor,2,Single,4,Male,Self-employed,Yes,nan,Business,2017-10-13 20:06:29.189189184
+2,14846,54,High School,3,Married,2,Female,Unemployed,No,9497,Medical,2017-02-18 05:17:07.027027024
+2,3828,42,Bachelor,4,Married,4,Male,Self-employed,No,4868,Home,2018-02-22 10:35:40.540540528
+1,4346,55,Bachelor,1,nan,2,Male,Unemployed,Yes,nan,Car,2021-05-25 12:42:31.351351328
+0,9323,39,Master,4,Married,nan,Female,Part-time,Yes,2628,Business,2018-11-05 08:05:45.945945920
+4,8007,34,PhD,2,Single,2,Male,Full-time,Yes,8516,Car,2015-09-07 03:36:12.972972968
+4,8173,56,Bachelor,1,Single,3,Female,Full-time,Yes,3278,Home,2022-11-17 13:35:51.351351328
+nan,12155,43,High School,3,Married,3,Male,Unemployed,No,5509,Education,2022-01-10 20:03:36.216216192
+nan,8230,45,High School,2,Married,nan,Female,Self-employed,No,5803,Education,2016-06-14 15:15:18.918918912
+2,1925,34,High School,3,Married,2,Female,Part-time,No,4826,Other,2016-08-26 17:58:11.891891888
+3,8946,21,High School,2,Married,3,Male,Self-employed,No,3586,Education,2022-06-27 23:54:14.054054048
+nan,8105,45,Bachelor,1,Single,1,Female,Full-time,No,9970,Business,2016-06-03 16:02:52.972972960
+4,13397,25,High School,4,Married,1,Female,Full-time,No,8465,Education,2020-09-11 15:12:25.945945920
+1,8202,65,High School,4,Married,1,Male,Self-employed,No,1391,Business,2016-12-29 00:59:05.945945936
+2,nan,57,High School,4,Single,4,Female,Unemployed,No,6551,Business,2023-07-05 20:56:56.216216192
+0,2396,46,High School,1,Single,3,Male,Unemployed,No,4549,Car,2017-04-06 17:50:59.459459456
+nan,7274,66,High School,4,Single,3,Female,Self-employed,Yes,6421,Education,2019-04-18 20:12:15.135135136
+3,11371,51,High School,3,Single,4,Male,Full-time,No,5368,Medical,2019-12-12 11:01:37.297297280
+1,575,26,Bachelor,1,Divorced,3,Male,Self-employed,Yes,3616,Education,2022-06-20 16:25:56.756756736
+3,11593,49,Bachelor,2,Single,1,Male,Full-time,No,9843,Education,2021-06-05 11:54:57.297297280
+3,nan,43,High School,3,Single,1,Male,Self-employed,Yes,9528,Education,2017-05-31 13:53:09.189189184
+1,5450,42,Bachelor,4,Single,2,Female,Unemployed,Yes,6438,Other,2021-08-24 22:06:07.567567552
+0,nan,57,Bachelor,3,nan,3,Male,Part-time,nan,3366,Medical,2020-10-14 12:49:43.783783776
+3,458,25,High School,3,Widowed,4,Female,Full-time,Yes,8815,Medical,2019-07-15 13:51:42.702702688
+2,4473,nan,High School,1,Single,1,Male,Part-time,Yes,3588,Business,2016-06-25 14:27:44.864864864
+3,6936,49,Bachelor,3,Married,1,Female,Unemployed,Yes,nan,Medical,2021-08-06 15:25:24.324324320
+2,3665,56,Master,4,Single,3,Male,Self-employed,No,nan,Business,2023-07-02 05:12:47.567567552
+4,nan,69,High School,3,Married,4,Female,Unemployed,No,9291,Car,2017-10-17 11:50:37.837837824
+2,8946,26,High School,2,Single,1,Female,Part-time,No,7187,Business,2021-12-23 13:22:52.972972960
+2,11607,24,PhD,nan,Divorced,4,Male,Unemployed,No,1397,Education,2019-04-26 03:40:32.432432416
+4,14940,32,High School,3,Married,1,Male,Unemployed,Yes,7044,Home,2022-12-09 12:00:43.243243232
+2,9109,30,High School,3,Widowed,1,Male,Self-employed,Yes,8062,Home,2022-08-21 19:56:23.783783776
+0,nan,55,PhD,2,Single,4,Female,Part-time,Yes,8041,Other,2017-10-21 03:34:46.486486480
+0,9013,46,PhD,2,Widowed,1,Female,Part-time,No,1257,Education,2014-05-30 21:09:54.594594594
+3,9461,51,Bachelor,3,Divorced,1,Female,Part-time,No,587,Business,2017-06-11 13:05:35.135135120
+3,nan,67,Bachelor,2,Single,2,Female,Full-time,Yes,887,Education,2019-12-27 01:58:11.891891872
+3,11344,29,High School,3,Married,2,Male,Unemployed,Yes,3000,Other,2016-08-08 11:17:28.648648640
+1,9847,61,High School,4,Single,2,Male,Part-time,Yes,5243,Medical,2017-01-19 23:23:57.837837824
+0,14060,59,Bachelor,3,Single,2,Male,Unemployed,No,2353,Business,2022-02-01 18:28:28.108108096
+0,nan,37,High School,1,Single,1,Male,Self-employed,Yes,4994,Education,2022-08-14 12:28:06.486486464
+1,1058,19,Bachelor,2,Married,3,Female,Self-employed,Yes,4868,Medical,2016-05-23 16:50:27.027027024
+2,nan,nan,nan,2,Married,1,Female,Full-time,Yes,1179,Other,2020-10-14 12:49:43.783783776
+1,12765,nan,nan,3,nan,3,Male,Full-time,No,5149,Medical,2017-02-14 13:32:58.378378368
+2,nan,30,High School,4,Single,1,Female,Self-employed,No,1594,Business,2021-04-22 15:05:13.513513504
+nan,13703,49,Master,1,nan,4,Male,Part-time,Yes,6720,Other,2018-05-28 11:43:25.405405392
+1,2033,25,Bachelor,2,Single,2,Female,Self-employed,No,1239,Other,2023-05-01 01:42:20.540540544
+2,6477,25,PhD,nan,Divorced,nan,Female,Unemployed,No,nan,Other,2023-01-11 09:38:01.081081056
+3,306,44,High School,1,Married,4,Female,Full-time,nan,8458,Car,2015-04-28 13:07:01.621621616
+1,7057,38,High School,3,Single,4,Female,Full-time,Yes,nan,Other,2021-03-09 18:15:29.729729728
+3,12873,59,High School,3,Widowed,3,Female,Self-employed,No,2490,Car,2014-07-02 18:47:12.432432432
+4,968,18,Bachelor,1,Married,4,Female,Part-time,No,6030,Medical,2020-03-05 12:56:56.216216192
+nan,3124,20,Bachelor,2,Divorced,2,Male,Part-time,Yes,4305,Car,2017-11-30 08:40:21.621621616
+0,1286,nan,Master,4,Married,4,Female,Unemployed,No,nan,Medical,2020-12-15 16:20:10.810810784
+nan,nan,18,Master,3,Married,4,Male,Full-time,Yes,5027,Car,2021-02-15 19:50:37.837837824
+2,nan,57,High School,2,Married,4,Male,Self-employed,Yes,8773,Medical,2019-03-24 06:03:14.594594592
+1,nan,27,Bachelor,1,Divorced,1,Male,Self-employed,Yes,1646,Medical,2021-08-28 13:50:16.216216192
+2,10532,42,High School,2,Single,2,Male,Full-time,Yes,5803,Other,2019-01-28 10:01:04.864864864
+nan,11163,nan,PhD,1,Divorced,1,Male,Self-employed,Yes,9352,Other,2020-08-13 09:19:16.756756736
+2,158,65,nan,4,Widowed,4,Male,Full-time,No,7936,Medical,2017-07-14 10:42:52.972972960
+1,7437,30,nan,4,Single,4,Female,Part-time,No,8121,Other,2022-09-01 19:08:49.729729696
+3,3665,34,PhD,3,Single,2,Female,Part-time,No,1448,Medical,2023-09-24 07:08:06.486486464
+1,7114,nan,High School,4,Divorced,3,Female,Self-employed,Yes,nan,Other,2017-12-11 07:52:47.567567552
+0,11083,nan,High School,4,Married,3,Male,Part-time,No,2927,Home,2023-07-24 03:37:39.459459456
+0,6609,59,Bachelor,3,Married,4,Male,Part-time,No,8536,Car,2014-12-14 06:53:41.621621620
+0,14906,34,nan,1,Single,2,Male,Unemployed,Yes,6952,Medical,2015-01-19 20:15:08.108108104
+0,4599,50,High School,2,Married,4,Female,Full-time,No,9609,Education,2020-07-18 19:10:16.216216192
+0,4361,21,High School,1,Single,1,Female,Full-time,No,3120,Other,2020-10-10 21:05:35.135135104
+3,3173,69,PhD,3,Married,4,Female,Self-employed,No,1415,Other,2019-02-15 16:41:48.108108096
+0,1286,63,High School,1,Divorced,3,Male,Full-time,Yes,7461,Business,2019-07-30 04:48:17.297297280
+1,11130,46,Bachelor,1,Single,2,Male,Unemployed,Yes,8048,Education,2016-05-31 00:18:44.324324320
+4,545,19,Master,4,Married,2,Male,Self-employed,No,4962,Education,2022-07-23 14:03:14.594594560
+2,10961,32,High School,2,nan,2,Female,Self-employed,nan,8314,Home,2023-05-23 00:07:12.432432384
+3,10706,54,High School,2,Divorced,1,Male,Full-time,Yes,8306,Car,2018-11-16 07:18:11.891891872
+0,10733,34,Master,1,Widowed,4,Male,Part-time,nan,9428,Home,2021-11-24 07:29:43.783783776
+0,9454,63,Master,2,Married,1,Male,Part-time,Yes,nan,Car,2019-02-23 00:10:05.405405408
+0,9227,25,nan,1,Divorced,3,Male,Part-time,Yes,6976,Medical,2020-07-15 03:26:07.567567552
+0,614,24,Bachelor,2,Single,4,Female,Part-time,Yes,566,Home,2022-12-24 02:57:17.837837824
+1,13613,24,High School,1,Single,1,Female,Unemployed,No,1857,Business,2014-08-08 08:08:38.918918916
+0,454,68,Master,1,Single,3,Male,Self-employed,Yes,4654,Car,2018-02-26 02:19:49.189189184
+0,nan,39,Bachelor,1,Married,1,Male,Part-time,Yes,587,Home,2016-12-07 02:34:14.054054048
+0,nan,63,High School,2,Widowed,3,Female,Unemployed,No,8235,Business,2021-05-14 13:30:05.405405376
+2,14924,18,Master,2,Married,2,Female,Self-employed,nan,8425,Education,2017-01-05 08:27:23.243243232
+1,nan,35,High School,3,Divorced,1,Male,Full-time,Yes,9730,Other,2015-09-10 19:20:21.621621616
+1,2064,46,High School,2,Divorced,4,Female,Full-time,Yes,9209,Medical,2020-06-15 21:32:58.378378368
+2,10185,67,High School,2,Married,3,Female,Unemployed,No,7493,Medical,2014-05-27 05:25:45.945945944
+3,7686,19,Bachelor,4,Married,1,Male,Self-employed,No,9197,Education,2016-04-20 19:13:09.189189184
+0,2032,18,Bachelor,1,Married,3,Female,Part-time,Yes,6102,Home,2018-01-31 12:10:48.648648640
+3,11207,25,Bachelor,3,Married,1,Female,Self-employed,nan,5083,Other,2021-05-18 05:14:14.054054048
+3,5592,55,Master,4,Single,3,Female,Part-time,Yes,3854,Education,2020-07-04 04:13:41.621621600
+0,7657,66,nan,2,nan,2,Female,Unemployed,No,3225,Business,2020-03-20 03:53:30.810810784
+4,3155,52,High School,4,Single,4,Male,Part-time,Yes,6778,Other,2023-12-21 00:47:34.054054016
+nan,2604,nan,High School,2,Single,4,Female,Unemployed,No,nan,Car,2016-12-18 01:46:40.000000000
+0,8213,19,High School,3,Widowed,4,Female,Self-employed,Yes,3526,Home,2018-07-18 16:01:26.486486480
+1,956,21,High School,1,Married,2,Male,Self-employed,No,2840,Other,2014-07-24 17:12:04.324324324
+4,14954,57,Master,1,Divorced,2,Female,Part-time,nan,4295,Car,2023-06-02 23:19:38.378378368
+3,nan,28,Master,4,Married,2,Male,Self-employed,No,6414,Education,2020-05-06 16:27:23.243243232
+0,13161,28,Master,2,Married,4,Male,Part-time,No,3109,Medical,2016-05-23 16:50:27.027027024
+1,3466,31,High School,3,Single,3,Female,Self-employed,Yes,nan,Other,2019-12-23 10:14:03.243243232
+1,2162,nan,Bachelor,3,Married,nan,Female,Full-time,No,3984,Other,2015-10-02 17:45:13.513513512
+2,1394,64,Bachelor,2,Married,nan,Female,Part-time,nan,678,Car,2014-08-15 15:36:56.216216216
+3,12144,48,High School,3,Divorced,2,Female,Unemployed,No,2922,Car,2019-07-04 14:39:16.756756736
+1,4146,23,Master,1,Married,4,Female,Full-time,No,6849,Medical,2015-05-16 19:47:44.864864864
+2,7904,22,nan,3,nan,2,Male,Unemployed,nan,3766,Car,2023-10-23 13:01:15.675675648
+3,3810,42,Bachelor,2,Single,2,Female,Self-employed,Yes,1499,Car,2018-07-15 00:17:17.837837824
+0,13612,24,Master,3,Married,2,Male,Full-time,No,2056,Other,2021-07-12 01:16:23.783783776
+1,4286,35,Bachelor,2,Married,3,Female,Self-employed,No,3278,Medical,2018-06-26 17:36:34.594594592
+3,12281,29,High School,1,nan,1,Male,Part-time,No,3511,Medical,2016-04-02 12:32:25.945945944
+4,11722,52,Bachelor,2,Single,3,Female,Unemployed,No,6142,Other,2018-06-04 19:11:42.702702688
+2,13035,55,High School,3,Married,2,Female,Self-employed,No,6243,Education,2016-01-20 09:49:32.972972968
+2,10238,63,High School,1,Widowed,3,Female,Unemployed,Yes,7892,Education,2020-10-03 13:37:17.837837824
+0,14551,60,Master,3,Single,1,Female,Unemployed,Yes,831,Other,2014-04-06 01:07:44.864864864
+2,11521,37,PhD,1,Widowed,nan,Female,Self-employed,Yes,2881,Car,2018-07-25 23:29:43.783783776
+2,12873,nan,Bachelor,3,Single,3,Male,Part-time,No,6907,Home,2020-12-12 00:36:02.162162144
+1,13613,35,Bachelor,1,Divorced,3,Female,Unemployed,Yes,2487,Education,2021-02-04 20:38:11.891891872
+1,10462,58,PhD,1,nan,4,Female,Self-employed,Yes,9696,Education,2023-11-29 02:22:42.162162112
+1,nan,49,PhD,4,Divorced,4,Female,Part-time,No,nan,Other,2022-06-27 23:54:14.054054048
+0,3778,63,Master,2,Married,4,Male,Self-employed,No,8904,Other,2023-06-28 13:28:38.918918912
+1,14790,55,High School,2,Single,1,Female,Part-time,nan,3823,Home,2015-01-23 11:59:16.756756756
+1,14269,nan,nan,3,nan,1,Male,Unemployed,nan,nan,Home,2018-06-08 10:55:51.351351344
+1,6294,62,High School,3,Married,4,Female,Full-time,No,794,Medical,2021-01-02 23:00:54.054054048
+0,1367,26,Master,2,Single,2,Male,Self-employed,Yes,5856,Other,2014-05-08 22:45:02.702702702
+4,8684,39,High School,2,Divorced,4,Female,Unemployed,No,nan,Education,2019-12-19 18:29:54.594594592
+2,13998,39,Master,4,Married,3,Female,Self-employed,Yes,4077,Business,2015-07-17 23:18:11.891891888
+3,14846,54,High School,2,Single,3,Male,Self-employed,No,3868,Business,2015-09-07 03:36:12.972972968
+3,nan,62,Bachelor,4,Single,1,Female,Part-time,No,nan,Car,2021-12-16 05:54:35.675675648
+2,13035,31,Bachelor,4,Single,1,Male,Self-employed,No,5958,Education,2016-09-17 16:23:03.783783776
+0,5016,19,High School,3,Married,2,Female,Part-time,Yes,1296,Business,2019-06-19 23:42:42.162162144
+2,9153,59,Master,4,Divorced,1,Female,Unemployed,Yes,9326,Education,2018-03-12 17:16:23.783783776
+2,9631,48,PhD,2,Married,4,Male,Self-employed,No,7473,Other,2015-10-31 23:38:22.702702696
+3,2428,58,nan,1,Widowed,2,Female,Unemployed,Yes,5404,Education,2020-02-08 22:47:55.675675648
+2,10300,65,High School,3,Widowed,1,Male,Full-time,nan,1580,Business,2016-05-12 17:38:01.081081072
+0,3511,21,Master,1,Divorced,3,Male,Unemployed,No,nan,Education,2023-02-24 06:27:44.864864832
+1,12732,64,Master,2,Single,1,Female,Self-employed,No,5587,Home,2019-02-01 01:45:13.513513504
+1,9905,63,Bachelor,1,Divorced,3,Female,Full-time,nan,8674,Car,2018-05-28 11:43:25.405405392
+3,14051,67,High School,1,Married,4,Female,Part-time,No,3140,Medical,2023-10-23 13:01:15.675675648
+2,5420,34,Master,3,Married,4,Male,Full-time,Yes,3905,Business,2015-03-19 08:01:26.486486480
+1,10640,nan,nan,3,Divorced,nan,Male,Self-employed,Yes,3525,Other,2018-03-01 18:03:57.837837824
+nan,2433,35,Master,4,Married,2,Female,Self-employed,No,nan,Medical,2019-05-07 02:52:58.378378368
+3,nan,34,Bachelor,3,nan,3,Male,Unemployed,No,2244,Car,2017-09-29 05:09:54.594594592
+1,5592,60,Bachelor,4,Single,3,Male,Part-time,No,3493,Home,2019-09-30 08:18:44.324324320
+0,3239,24,High School,3,Divorced,4,Male,Self-employed,nan,6621,Home,2017-04-03 02:06:50.810810800
+0,12149,32,Master,3,Single,1,Male,Self-employed,Yes,3985,Home,2018-10-18 01:25:02.702702688
+1,12155,27,Master,nan,nan,2,Female,Part-time,Yes,4962,Home,2015-06-29 16:37:28.648648648
+0,14437,25,High School,1,Single,4,Female,Part-time,Yes,nan,Business,2021-01-24 21:25:45.945945920
+0,3374,60,PhD,2,Single,3,Female,Unemployed,No,1854,Business,2023-12-13 17:19:16.756756736
+1,5043,51,High School,2,Married,4,Male,Full-time,Yes,9424,Education,2019-12-01 11:49:11.351351328
+0,13481,64,nan,1,Married,1,Male,Part-time,Yes,6020,Other,2018-11-23 14:46:29.189189184
+4,3738,55,Bachelor,4,Single,3,Male,Self-employed,No,8348,Education,2022-04-08 13:43:03.783783776
+0,8820,42,High School,1,Married,1,Male,Part-time,Yes,nan,Other,2015-07-10 15:49:54.594594592
+2,nan,35,Bachelor,4,Married,3,Female,Self-employed,No,6551,Car,2014-02-28 11:46:18.378378378
+2,1913,22,Bachelor,3,Single,nan,Male,Unemployed,No,8600,Education,2019-07-04 14:39:16.756756736
+nan,13895,23,High School,2,Married,1,Male,Full-time,Yes,nan,Car,2022-06-13 08:57:39.459459424
+0,9667,54,Bachelor,1,Widowed,1,Female,Unemployed,Yes,1113,Car,2017-06-22 12:18:01.081081072
+1,nan,38,Bachelor,2,Divorced,2,Female,Part-time,No,4147,Car,2018-08-02 06:58:01.081081056
+nan,10361,36,Master,3,Divorced,2,Female,Self-employed,Yes,nan,Home,2016-01-05 18:52:58.378378376
+4,10361,39,High School,nan,Divorced,4,Male,Part-time,Yes,8235,Medical,2018-03-23 16:28:49.729729712
+4,11855,50,Bachelor,2,Married,3,Male,Part-time,Yes,786,Medical,2016-10-16 22:16:12.972972960
+1,3124,46,High School,2,Single,1,Male,Part-time,Yes,5982,Business,2018-03-20 00:44:41.081081072
+0,2808,49,Master,2,Single,1,Male,Part-time,No,nan,Car,2019-12-30 17:42:20.540540512
+3,4882,65,High School,3,Widowed,3,Male,Full-time,Yes,2921,Home,2023-12-06 09:50:59.459459456
+nan,2255,18,nan,nan,nan,2,Male,Self-employed,nan,1346,Education,2018-08-24 05:22:52.972972960
+2,7099,21,Master,3,Married,1,Female,Part-time,Yes,1816,Education,2023-07-13 04:25:13.513513472
+2,1796,36,Bachelor,2,Single,nan,Male,Self-employed,No,6456,Business,2022-02-12 17:40:54.054054048
+1,5068,nan,Bachelor,2,Single,nan,Female,Full-time,No,8355,Business,2022-01-14 11:47:44.864864832
+3,nan,57,High School,2,Married,1,Female,Self-employed,No,4974,Car,2017-07-18 02:27:01.621621616
+0,9908,37,High School,3,Married,1,Female,Self-employed,No,3123,Car,2019-10-25 22:27:44.864864864
+1,454,45,PhD,1,Single,1,Male,Full-time,Yes,4873,Education,2017-10-10 04:22:20.540540528
+2,4109,66,nan,1,nan,2,Male,Part-time,No,2613,Education,2015-03-26 15:29:43.783783784
+2,1667,39,High School,4,Married,1,Female,Self-employed,Yes,3525,Education,2014-10-16 19:07:23.243243240
+1,317,19,Bachelor,1,nan,3,Male,Unemployed,Yes,8425,Education,2019-07-26 13:04:08.648648640
+0,1796,37,Master,3,Divorced,2,Male,Self-employed,No,1137,Medical,2023-11-18 03:10:16.216216192
+3,14275,18,Master,1,Divorced,2,Female,Part-time,Yes,4956,Car,2016-04-28 02:41:26.486486480
+1,14139,51,High School,2,Divorced,4,Male,Unemployed,No,nan,Car,2018-10-18 01:25:02.702702688
+2,12875,39,High School,nan,Divorced,4,Male,Part-time,Yes,5668,Education,2015-07-14 07:34:03.243243240
+0,5791,53,High School,4,Divorced,4,Male,Self-employed,No,9352,Home,2023-01-26 00:34:35.675675648
+2,4293,33,PhD,1,Divorced,2,Male,Full-time,nan,2171,Education,2020-12-01 01:23:36.216216192
+2,10238,66,Bachelor,4,Married,3,Female,Part-time,No,nan,Other,2018-01-31 12:10:48.648648640
+0,10246,67,Bachelor,3,nan,2,Female,Part-time,No,8372,Business,2014-04-20 16:04:19.459459458
+1,11718,34,nan,4,Divorced,2,Male,Full-time,No,9197,Other,2019-12-19 18:29:54.594594592
+0,nan,44,Master,2,Divorced,4,Male,Self-employed,nan,8616,Home,2019-07-26 13:04:08.648648640
+0,12875,49,PhD,1,Widowed,3,Male,Part-time,Yes,8086,Business,2019-01-10 03:20:21.621621600
+nan,13042,49,Bachelor,2,Single,2,Female,Self-employed,No,nan,Home,2017-09-14 14:13:19.999999984
+1,nan,31,High School,2,Single,1,Male,Self-employed,Yes,1159,Business,2017-03-23 02:54:24.864864864
+4,3342,36,nan,1,Married,1,Male,Self-employed,Yes,2927,Education,2017-04-25 00:31:42.702702688
+1,12732,30,Bachelor,3,Married,2,Female,Full-time,Yes,8262,Education,2016-06-03 16:02:52.972972960
+3,nan,32,High School,1,Widowed,4,Male,Self-employed,Yes,1089,Home,2019-07-08 06:23:25.405405408
+3,13737,32,Bachelor,3,Married,4,Female,Self-employed,No,2542,Business,2018-04-18 06:37:50.270270256
+2,7009,33,High School,3,Married,2,Male,Unemployed,No,3581,Medical,2015-10-24 16:10:05.405405400
+2,1380,62,Bachelor,2,Married,nan,Female,Unemployed,No,2881,Home,2022-02-01 18:28:28.108108096
+2,8905,57,PhD,3,Single,1,Male,Unemployed,No,8146,Home,2018-09-22 11:16:02.162162144
+1,13025,58,nan,1,Divorced,1,Male,Part-time,Yes,nan,Other,2017-10-02 20:54:03.243243232
+nan,13125,29,nan,2,Widowed,3,Female,Part-time,Yes,nan,Car,2014-10-20 10:51:31.891891888
+4,12771,40,High School,4,Single,3,Female,Unemployed,Yes,2748,Home,2019-06-30 22:55:08.108108096
+nan,5238,52,Bachelor,2,Married,3,Female,Full-time,No,9418,Medical,2022-09-05 10:52:58.378378368
+0,6894,nan,High School,2,Married,4,Female,Full-time,Yes,nan,Education,2018-03-12 17:16:23.783783776
+3,8105,69,PhD,4,Single,nan,Female,Unemployed,No,2293,Business,2018-08-31 12:51:10.270270272
+nan,703,65,Bachelor,1,Single,3,Male,Part-time,nan,642,Car,2018-04-10 23:09:32.972972960
+0,12045,63,Master,2,nan,2,Female,Part-time,No,2341,Business,2014-07-24 17:12:04.324324324
+0,13621,nan,Master,3,Married,2,Female,Full-time,No,6228,Education,2017-03-19 11:10:16.216216208
+3,12857,46,Bachelor,2,Single,nan,Female,Self-employed,No,5081,Home,2023-10-08 22:04:41.081081088
+2,3953,28,Bachelor,4,Single,1,Female,Full-time,Yes,4412,Other,2019-06-01 17:01:58.918918912
+4,1389,30,nan,4,Divorced,4,Male,Self-employed,Yes,6020,Medical,2018-12-11 21:27:12.432432416
+0,nan,37,nan,3,Divorced,3,Male,Part-time,No,nan,Car,2016-08-26 17:58:11.891891888
+3,12057,59,High School,3,Divorced,1,Male,Part-time,No,2895,Medical,2016-04-06 04:16:34.594594592
+1,1265,67,Bachelor,4,Single,nan,Male,Unemployed,No,1080,Medical,2022-04-15 21:11:21.081081056
+0,986,35,nan,2,Widowed,4,Male,Part-time,Yes,5342,Medical,2023-08-04 02:50:05.405405376
+0,9739,61,High School,3,Married,3,Female,Self-employed,No,5109,Medical,2022-01-14 11:47:44.864864832
+4,nan,23,Bachelor,2,Married,2,Male,Full-time,Yes,5803,Education,2014-07-13 17:59:38.378378378
+3,5543,22,High School,1,Married,1,Male,Unemployed,Yes,9424,Medical,2020-02-01 15:19:38.378378368
+2,nan,nan,Bachelor,3,Married,1,Female,Self-employed,Yes,1903,Other,2023-08-11 10:18:22.702702656
+1,12430,25,High School,2,Widowed,4,Female,Full-time,Yes,1986,Medical,2023-10-12 13:48:49.729729728
+4,3511,34,Bachelor,2,nan,4,Male,Full-time,Yes,6652,Education,2014-01-11 23:12:25.945945945
+1,6446,20,High School,2,Married,3,Male,Full-time,Yes,3738,Business,2018-05-21 04:15:08.108108096
+4,4146,19,Bachelor,nan,Widowed,3,Female,Part-time,No,2171,Education,2017-02-03 14:20:32.432432432
+2,892,54,nan,3,Divorced,2,Male,Full-time,No,7985,Other,2022-10-15 15:58:33.513513504
+1,2736,26,PhD,1,nan,2,Female,Part-time,No,9275,Other,2020-01-10 16:54:46.486486464
+2,11745,46,PhD,3,Single,1,Female,Full-time,No,6318,Home,2014-11-18 16:44:41.081081080
+1,2043,40,Master,3,Married,2,Male,Full-time,nan,1080,Education,2017-03-12 03:41:58.918918912
+3,12857,32,High School,3,Single,3,Male,Part-time,Yes,7461,Business,2017-09-29 05:09:54.594594592
+2,13014,26,High School,3,Widowed,3,Male,Part-time,Yes,5916,Home,2020-01-14 08:38:55.135135136
+1,9108,32,nan,2,Single,1,Female,Self-employed,No,8210,Home,2019-01-02 19:52:04.324324320
+4,9847,66,Bachelor,3,Married,4,Female,Full-time,Yes,nan,Car,2020-08-13 09:19:16.756756736
+1,3144,25,High School,1,Married,2,Male,Part-time,No,8984,Medical,2016-05-01 18:25:35.135135136
+2,14451,43,Master,3,Married,2,Male,Self-employed,No,nan,Home,2023-03-18 04:52:36.756756736
+nan,9768,29,High School,1,Divorced,2,Male,Self-employed,nan,2938,Home,2017-05-13 07:12:25.945945936
+3,3993,62,High School,1,Widowed,2,Female,Part-time,No,3169,Other,2019-09-15 17:22:09.729729728
+0,11873,60,nan,1,Divorced,1,Female,Full-time,nan,6057,Business,2015-11-04 15:22:31.351351344
+nan,13836,18,PhD,2,Widowed,4,Female,Self-employed,Yes,nan,Home,2018-05-17 12:30:59.459459456
+3,7904,20,Bachelor,2,Single,2,Male,Full-time,No,4412,Business,2019-07-22 21:20:00.000000000
+1,7311,26,nan,1,Married,3,Female,Full-time,Yes,2086,Medical,2015-10-17 08:41:48.108108104
+0,968,66,Master,1,Married,3,Female,Self-employed,No,1930,Other,2014-10-02 04:10:48.648648648
+3,2139,38,Master,3,Single,1,Male,Part-time,No,4574,Car,2020-07-22 10:54:24.864864864
+3,11653,47,High School,3,Married,3,Female,Full-time,Yes,1988,Car,2020-02-16 06:16:12.972972960
+2,4470,47,High School,nan,Divorced,3,Male,Unemployed,No,9497,Medical,2022-12-05 20:16:34.594594560
+4,nan,25,Master,2,Married,3,Female,Part-time,Yes,3296,Medical,2016-09-17 16:23:03.783783776
+3,7906,30,PhD,1,Divorced,2,Male,Self-employed,Yes,824,Other,2023-10-08 22:04:41.081081088
+0,12182,54,Master,4,Married,1,Male,Unemployed,nan,2634,Other,2014-07-17 09:43:47.027027026
+1,nan,65,High School,4,Single,3,Female,Full-time,Yes,1442,Education,2021-01-02 23:00:54.054054048
+1,13059,42,High School,1,Single,2,Male,Part-time,Yes,2163,Home,2022-08-18 04:12:15.135135104
+3,9200,26,PhD,3,Married,2,Female,Unemployed,Yes,1317,Home,2022-06-20 16:25:56.756756736
+0,317,32,High School,3,Single,1,Male,Part-time,No,9667,Home,2014-10-05 19:54:57.297297296
+2,1,32,Bachelor,4,Single,2,Male,Full-time,Yes,9868,Business,2016-12-14 10:02:31.351351344
+3,11608,48,High School,2,Married,2,Male,Part-time,Yes,1232,Education,2016-03-07 22:23:25.405405400
+4,1394,65,High School,4,Married,4,Female,Unemployed,No,nan,Home,2016-10-05 23:03:47.027027024
+1,3788,48,Master,4,Married,3,Male,Part-time,Yes,9942,Business,2019-10-11 07:31:10.270270272
+4,11344,39,Master,4,Divorced,4,Male,Self-employed,Yes,3656,Business,2020-06-23 05:01:15.675675648
+0,6656,40,Bachelor,nan,Divorced,1,Female,Self-employed,No,5342,Car,2021-06-16 11:07:23.243243232
+4,10640,51,High School,3,Married,1,Male,Unemployed,No,2540,Business,2021-02-08 12:22:20.540540512
+0,6570,29,PhD,4,Divorced,1,Male,Part-time,No,nan,Medical,2016-08-26 17:58:11.891891888
+1,nan,27,High School,4,Divorced,4,Male,Unemployed,Yes,8603,Other,2023-07-13 04:25:13.513513472
+3,3389,68,Bachelor,nan,Divorced,1,Male,Part-time,nan,1053,Business,2022-12-31 10:25:35.135135104
+0,5179,25,nan,2,Married,4,Female,Full-time,nan,8262,Medical,2014-06-03 12:54:03.243243242
+1,271,nan,High School,4,Single,2,Male,Self-employed,Yes,7597,Medical,2017-08-09 00:51:53.513513504
+3,7486,36,nan,1,Divorced,3,Male,Full-time,Yes,6621,Car,2016-04-09 20:00:43.243243240
+3,955,45,High School,2,Married,2,Female,Part-time,nan,2761,Car,2016-04-06 04:16:34.594594592
+3,4760,27,Bachelor,4,nan,2,Male,Full-time,No,nan,Business,2014-08-15 15:36:56.216216216
+3,nan,65,Bachelor,4,Widowed,3,Male,Unemployed,No,2854,Car,2015-09-14 11:04:30.270270264
+2,nan,18,nan,2,Married,3,Female,Unemployed,No,2606,Car,2023-08-18 17:46:40.000000000
+1,968,38,High School,2,Single,4,Female,Part-time,No,nan,Other,2021-08-13 22:53:41.621621600
+1,14287,37,Bachelor,2,Single,1,Female,Self-employed,No,9810,Home,2022-07-01 15:38:22.702702688
+0,9788,25,nan,2,Married,2,Female,Unemployed,Yes,4221,Business,2021-08-13 22:53:41.621621600
+nan,7029,59,Bachelor,3,Married,3,Male,Self-employed,Yes,6088,Business,2017-01-23 15:08:06.486486480
+2,12398,50,Bachelor,2,Single,4,Female,Part-time,No,4878,Business,2021-07-01 02:03:57.837837824
+2,9206,54,High School,1,Married,2,Male,Self-employed,No,7273,Car,2019-09-04 18:09:43.783783776
+2,7564,18,Master,1,Single,1,Female,Part-time,No,3637,Other,2020-10-29 03:46:18.378378368
+nan,nan,49,High School,2,nan,3,Male,Full-time,nan,2039,Car,2023-03-14 13:08:28.108108096
+0,14626,26,High School,3,Single,4,Female,Part-time,No,nan,Medical,2023-12-02 18:06:50.810810816
+2,8502,18,Bachelor,3,nan,2,Female,Full-time,Yes,4594,Education,2014-05-01 15:16:45.405405404
+2,2466,56,Bachelor,4,nan,1,Male,Part-time,No,2540,Education,2022-04-08 13:43:03.783783776
+3,13245,67,nan,nan,Married,1,Female,Unemployed,Yes,6330,Education,2020-06-01 06:36:23.783783776
+0,7351,33,nan,2,Divorced,1,Female,Unemployed,Yes,1071,Home,2015-04-17 13:54:35.675675672
+4,11404,40,Master,2,Married,2,Female,Self-employed,Yes,3586,Car,2017-12-07 16:08:38.918918912
+nan,3598,30,PhD,1,Divorced,4,Male,Part-time,No,1113,Medical,2015-07-03 08:21:37.297297296
+2,1440,49,Master,3,Married,1,Female,Part-time,nan,nan,Medical,2020-07-18 19:10:16.216216192
+3,7312,28,High School,2,Married,nan,Female,Part-time,Yes,1397,Education,2020-04-18 09:46:40.000000000
+nan,7982,56,Master,2,Married,1,Male,Self-employed,Yes,3525,Other,2021-02-26 19:03:03.783783776
+3,11645,32,High School,1,Married,3,Male,Unemployed,No,nan,Home,2017-11-01 02:47:12.432432416
+0,10698,63,Bachelor,3,Married,4,Female,Part-time,No,920,Home,2021-06-20 02:51:31.891891872
+2,9076,34,PhD,4,Single,3,Male,Self-employed,No,7187,Education,2014-02-28 11:46:18.378378378
+3,5791,57,Bachelor,3,Married,3,Male,Part-time,No,6077,Education,2019-12-08 19:17:28.648648640
+2,4703,43,PhD,3,Single,nan,Male,Full-time,No,2002,Car,2014-02-17 12:33:52.432432432
+3,1136,30,High School,2,Single,4,Female,Part-time,Yes,8719,Other,2014-10-20 10:51:31.891891888
+nan,3427,68,Master,4,Single,3,Female,Full-time,Yes,nan,Home,2016-01-24 01:33:41.621621616
+nan,5626,38,High School,2,Single,4,Male,Self-employed,Yes,3868,Medical,2016-01-13 02:21:15.675675672
+2,12020,42,Master,3,Single,1,Female,Self-employed,No,5954,Education,2017-10-13 20:06:29.189189184
+0,14139,68,Master,4,Widowed,2,Male,Unemployed,Yes,2341,Car,2021-11-02 09:04:51.891891872
+nan,583,45,Bachelor,4,Single,3,Female,Part-time,No,2606,Medical,2019-06-09 00:30:16.216216192
+4,12651,69,High School,1,Divorced,2,Male,Self-employed,Yes,1416,Home,2014-03-22 10:11:10.270270270
+0,8056,45,High School,3,Single,4,Female,Unemployed,No,9274,Education,2020-02-19 22:00:21.621621600
+nan,13258,69,High School,3,Widowed,1,Male,Part-time,Yes,nan,Other,2015-08-12 13:27:12.432432432
+4,6183,35,Master,4,Married,4,Female,Self-employed,Yes,8600,Education,2020-02-05 07:03:47.027027008
+2,7059,39,nan,3,Married,1,Female,Full-time,Yes,1717,Other,2015-06-07 18:12:36.756756752
+2,10177,43,High School,4,Married,3,Male,Self-employed,No,2974,Car,2023-04-20 02:29:54.594594560
+1,3020,22,Master,2,Married,3,Female,Full-time,Yes,3511,Car,2015-01-12 12:46:50.810810808
+0,8905,59,PhD,3,Married,3,Female,Unemployed,No,3006,Home,2017-10-24 19:18:55.135135120
+1,5084,65,Bachelor,3,Single,1,Female,Unemployed,No,6088,Other,2018-07-18 16:01:26.486486480
+4,894,25,Master,1,nan,1,Female,Part-time,No,8411,Education,2018-03-01 18:03:57.837837824
+0,9299,30,PhD,1,Married,3,Female,Part-time,No,6088,Car,2017-03-26 18:38:33.513513504
+1,12151,41,High School,4,Married,4,Female,Part-time,nan,3225,Education,2015-09-14 11:04:30.270270264
+1,3726,33,High School,4,Divorced,2,Female,Unemployed,Yes,5329,Home,2019-10-04 00:02:52.972972960
+2,936,26,High School,4,Married,3,Female,Full-time,Yes,3406,Other,2021-07-23 00:28:49.729729696
+nan,13035,31,nan,2,Widowed,3,Male,Part-time,nan,nan,Education,2019-10-29 14:11:53.513513504
+1,7214,34,nan,4,Married,1,Female,Part-time,Yes,3766,Medical,2016-09-24 23:51:21.081081072
+1,10106,62,Master,2,Divorced,3,Male,Unemployed,No,2067,Education,2018-07-07 16:49:00.540540528
+3,14523,22,High School,4,Single,3,Female,Full-time,Yes,5306,Business,2022-10-22 23:26:50.810810784
+2,7848,63,Bachelor,3,Widowed,1,Male,Self-employed,No,3382,Business,2015-03-30 07:13:52.432432432
+1,9884,39,High School,4,Divorced,1,Female,Part-time,Yes,2266,Home,2017-10-28 11:03:03.783783776
+2,116,45,High School,1,Single,4,Male,Self-employed,nan,7273,Home,2017-03-01 04:29:32.972972960
+0,7351,57,Master,4,Single,2,Male,Self-employed,No,6907,Home,2022-06-06 01:29:22.162162144
+0,14202,nan,nan,1,Married,2,Female,Part-time,Yes,1835,Medical,2015-01-23 11:59:16.756756756
+2,6090,59,nan,3,nan,2,Male,Unemployed,Yes,5149,Other,2020-08-06 01:50:59.459459456
+2,9829,41,Master,1,Single,4,Female,Part-time,Yes,1216,Medical,2023-01-26 00:34:35.675675648
+nan,8567,42,High School,1,Married,1,Female,Full-time,No,9942,Education,2018-08-16 21:54:35.675675680
+1,nan,65,High School,2,Single,1,Male,Full-time,Yes,8516,Car,2018-04-18 06:37:50.270270256
+2,10139,43,Bachelor,1,Married,4,Female,Part-time,Yes,566,Other,2021-01-13 22:13:19.999999968
+3,10699,41,Master,4,Married,1,Male,Self-employed,No,nan,Business,2017-05-13 07:12:25.945945936
+0,12975,54,PhD,1,nan,2,Male,Full-time,Yes,9236,Business,2021-05-18 05:14:14.054054048
+3,nan,20,Bachelor,1,Married,3,Female,Full-time,Yes,542,Business,2021-07-15 17:00:32.432432416
+0,4806,31,Bachelor,3,Widowed,4,Female,Part-time,Yes,8256,Education,2018-12-15 13:11:21.081081056
+nan,7424,47,High School,2,Married,3,Female,Part-time,No,8372,Education,2023-09-20 15:23:57.837837824
+0,1389,53,High School,3,Single,4,Female,Unemployed,nan,2029,Home,2017-08-12 16:36:02.162162160
+2,11779,49,Bachelor,3,Married,4,Female,Part-time,Yes,9729,Car,2021-12-16 05:54:35.675675648
+0,986,18,High School,3,Married,4,Male,Part-time,No,9871,Home,2018-04-25 14:06:07.567567552
+nan,10225,nan,Bachelor,1,nan,4,Male,Full-time,Yes,2485,Education,2020-09-29 21:53:09.189189184
+2,2383,33,PhD,2,Widowed,1,Female,Full-time,Yes,5299,Medical,2019-03-13 06:50:48.648648640
+2,nan,26,Bachelor,1,Single,4,Female,Full-time,No,2122,Home,2022-08-03 13:15:40.540540512
+0,13760,48,High School,2,Single,2,Female,Self-employed,Yes,2405,Other,2018-01-20 12:58:22.702702688
+3,6262,60,High School,2,Single,nan,Male,Full-time,No,3445,Education,2017-10-06 12:38:11.891891888
+1,7010,35,Bachelor,2,nan,nan,Male,Full-time,No,4731,Education,2015-07-07 00:05:45.945945944
+4,575,30,Bachelor,1,Widowed,1,Male,Part-time,nan,2848,Medical,2017-03-19 11:10:16.216216208
+1,2064,57,Bachelor,2,Divorced,2,Female,Unemployed,Yes,9643,Medical,2020-01-25 07:51:21.081081056
+0,11022,26,Bachelor,3,Married,3,Female,Full-time,Yes,1099,Medical,2016-02-18 15:42:42.162162160
+0,12975,57,Bachelor,2,Married,2,Male,Unemployed,nan,7233,Car,2019-10-04 00:02:52.972972960
+2,7117,55,Master,3,Married,3,Female,Full-time,Yes,6530,Other,2014-08-22 23:05:13.513513512
+2,14940,19,Bachelor,2,Single,3,Female,Full-time,No,8981,Education,2022-12-05 20:16:34.594594560
+0,5203,48,PhD,3,Married,3,Male,Unemployed,Yes,4489,Medical,2016-09-10 08:54:46.486486480
+3,14115,55,Bachelor,1,Single,4,Male,Part-time,Yes,610,Car,2019-05-14 10:21:15.675675648
+2,3564,52,High School,1,Single,1,Female,Full-time,Yes,1594,Business,2023-12-17 09:03:25.405405376
+2,13507,46,Bachelor,2,Widowed,2,Male,Unemployed,No,5612,Other,2014-12-28 21:50:16.216216212
+2,7657,26,Bachelor,2,Divorced,2,Female,Full-time,No,5438,Business,2015-01-16 04:30:59.459459456
+2,8884,nan,nan,2,Married,1,Male,Self-employed,Yes,nan,Business,2015-04-21 05:38:44.324324320
+2,3738,45,Master,4,Married,2,Male,Self-employed,No,nan,Education,2017-11-19 09:27:55.675675664
+0,10276,55,nan,2,Married,4,Female,Self-employed,Yes,nan,Car,2017-03-15 19:26:07.567567552
+0,38,30,nan,3,Divorced,3,Female,Self-employed,Yes,9339,Car,2018-05-17 12:30:59.459459456
+4,5495,nan,Master,3,Divorced,4,Male,Part-time,No,nan,Business,2014-03-07 19:14:35.675675675
+nan,12236,30,Bachelor,3,Divorced,nan,Female,Self-employed,No,2938,Other,2016-03-29 20:48:17.297297296
+1,9105,65,Bachelor,1,Divorced,4,Male,Unemployed,Yes,4392,Home,2020-03-05 12:56:56.216216192
+1,13598,42,nan,3,Single,3,Female,Full-time,Yes,5297,Business,2019-08-28 10:41:26.486486464
+3,nan,30,Master,nan,Married,1,Male,Unemployed,nan,2067,Education,2023-11-25 10:38:33.513513472
+2,12052,31,High School,2,Married,3,Male,Self-employed,No,nan,Business,2018-08-05 22:42:09.729729728
+0,14356,22,Master,2,Married,1,Male,Part-time,No,nan,Other,2017-12-07 16:08:38.918918912
+0,5724,30,High School,3,Divorced,3,Female,Self-employed,Yes,3228,Other,2016-04-02 12:32:25.945945944
+3,8941,27,Bachelor,2,Married,2,Male,Self-employed,No,542,Business,2023-02-13 07:15:18.918918912
+3,1440,21,High School,3,Single,1,Male,Part-time,Yes,nan,Car,2017-08-05 09:07:44.864864864
+0,8907,20,Master,2,Married,2,Male,Part-time,nan,4394,Business,2018-04-18 06:37:50.270270256
+1,7725,56,PhD,1,nan,3,Male,Part-time,Yes,5700,Medical,2023-04-01 19:49:11.351351360
+1,8930,25,High School,3,Single,3,Female,Part-time,Yes,nan,Medical,2014-02-21 04:18:01.081081081
+3,2958,34,High School,1,Divorced,2,Female,Part-time,Yes,nan,Home,2019-08-06 12:16:34.594594592
+0,nan,21,High School,1,Married,4,Male,Part-time,No,2628,Education,2020-07-04 04:13:41.621621600
+0,nan,54,Master,2,Single,1,Male,Full-time,No,967,Education,2019-06-16 07:58:33.513513504
+3,nan,32,Bachelor,3,Married,1,Female,Self-employed,Yes,8411,Car,2023-04-27 09:58:11.891891840
+0,nan,59,High School,4,Divorced,1,Male,Self-employed,No,6339,Education,2018-02-18 18:51:31.891891888
+3,2720,50,High School,1,Married,3,Female,Part-time,No,5335,Home,2017-07-18 02:27:01.621621616
+1,12191,43,Bachelor,1,Widowed,1,Male,Unemployed,Yes,5017,Medical,2018-07-25 23:29:43.783783776
+0,3993,44,High School,2,Single,2,Female,Part-time,No,8210,Car,2021-03-20 17:27:55.675675648
+1,12281,47,Master,1,Single,3,Male,Full-time,nan,9808,Other,2019-04-22 11:56:23.783783776
+3,1136,38,High School,4,nan,2,Female,Unemployed,Yes,1179,Medical,2023-12-28 08:15:51.351351296
+4,10037,30,Master,4,Married,3,Female,Full-time,Yes,8719,Home,2015-12-14 20:28:06.486486480
+4,nan,nan,High School,2,Married,nan,Female,Unemployed,Yes,9197,Car,2022-05-18 18:48:38.918918912
+1,14331,27,Bachelor,nan,Divorced,3,Male,Unemployed,Yes,9970,Business,2015-02-21 17:52:25.945945944
+3,892,24,High School,4,Married,1,Female,Part-time,No,6976,Education,2018-03-01 18:03:57.837837824
+1,12757,37,Master,1,Divorced,4,Female,Full-time,No,7576,Home,2017-07-07 03:14:35.675675664
+1,14414,57,nan,2,Single,1,Male,Unemployed,No,9291,Car,2023-10-05 06:20:32.432432384
+4,nan,54,nan,nan,Single,nan,Male,Full-time,Yes,1397,Medical,2014-09-28 12:26:40.000000000
+0,10169,36,Bachelor,4,Single,3,Male,Part-time,No,9141,Car,2020-08-13 09:19:16.756756736
+0,nan,39,Bachelor,3,Widowed,2,Male,Part-time,No,616,Business,2014-05-08 22:45:02.702702702
+1,1927,57,PhD,1,Single,4,Female,Part-time,nan,nan,Home,2016-05-31 00:18:44.324324320
+0,14199,66,Master,1,Divorced,4,Male,Part-time,Yes,8017,Car,2020-08-17 01:03:25.405405376
+0,4675,38,High School,3,nan,4,Male,Self-employed,No,4098,Other,2014-08-15 15:36:56.216216216
+2,778,36,PhD,2,Married,4,Male,Unemployed,nan,3868,Home,2020-08-28 00:15:51.351351328
+2,12157,24,Bachelor,4,Married,4,Male,Self-employed,No,605,Home,2019-02-01 01:45:13.513513504
+4,nan,63,High School,3,Married,3,Male,Part-time,Yes,5840,Medical,2015-11-15 14:34:57.297297296
+4,3760,nan,High School,1,Married,3,Male,Unemployed,Yes,669,Education,2021-05-07 06:01:48.108108096
+1,5203,55,High School,1,Married,4,Male,Unemployed,No,6400,Other,2014-12-03 07:41:15.675675672
+1,1771,65,Bachelor,3,Divorced,3,Female,Full-time,Yes,564,Business,2014-01-15 14:56:34.594594594
+1,5604,58,High School,1,nan,4,Female,Part-time,nan,6976,Car,2018-05-17 12:30:59.459459456
+2,11692,53,High School,3,nan,4,Female,Self-employed,No,nan,Education,2015-08-27 04:23:47.027027024
+1,2430,21,High School,1,Widowed,1,Female,Full-time,Yes,2026,Medical,2018-06-15 18:24:08.648648640
+3,12094,48,Bachelor,2,Widowed,2,Female,Unemployed,No,7092,Education,2014-03-29 17:39:27.567567567
+2,11207,39,Master,4,Married,3,Male,Self-employed,Yes,5586,Home,2019-01-28 10:01:04.864864864
+2,3738,19,Bachelor,3,Divorced,3,Male,Part-time,Yes,9942,Home,2014-12-21 14:21:58.918918916
+2,4494,32,High School,4,Widowed,1,Male,Self-employed,No,6720,Business,2016-09-03 01:26:29.189189184
+1,3155,58,High School,1,Married,1,Male,Self-employed,No,7395,Other,2020-08-13 09:19:16.756756736
+nan,7117,65,nan,2,nan,1,Female,Self-employed,Yes,nan,Car,2017-12-04 00:24:30.270270256
+3,13585,42,Bachelor,4,Married,4,Female,Full-time,No,8235,Car,2021-08-21 06:21:58.918918912
+0,6047,63,Bachelor,nan,Divorced,3,Male,Unemployed,Yes,nan,Medical,2019-12-16 02:45:45.945945920
+4,207,32,High School,4,Divorced,1,Male,Self-employed,No,1162,Business,2016-11-04 04:56:56.216216208
+2,14051,42,Master,3,nan,1,Female,Unemployed,No,7807,Car,2020-11-01 19:30:27.027027008
+4,nan,64,Bachelor,3,Single,3,Female,Full-time,Yes,4856,Other,2021-04-29 22:33:30.810810784
+3,13482,53,High School,1,Divorced,3,Female,Part-time,nan,756,Home,2015-01-30 19:27:34.054054052
+2,920,53,High School,4,Married,2,Male,Part-time,No,1744,Business,2014-04-06 01:07:44.864864864
+0,nan,36,Bachelor,3,Single,1,Male,Self-employed,No,nan,Education,2021-07-30 07:57:07.027027008
+1,5392,49,PhD,4,Divorced,1,Female,Full-time,No,4444,Business,2014-07-17 09:43:47.027027026
+2,5913,49,PhD,4,Married,1,Female,Part-time,Yes,1735,Business,2023-10-08 22:04:41.081081088
+3,12987,26,Master,3,Divorced,3,Male,Full-time,Yes,9397,Other,2015-04-28 13:07:01.621621616
+1,3294,26,Master,4,Married,1,Male,Full-time,No,786,Other,2014-07-06 10:31:21.081081080
+0,3726,55,High School,4,Married,3,Male,Self-employed,nan,6416,Car,2018-12-04 13:58:55.135135136
+4,nan,nan,Bachelor,2,Divorced,2,Male,Self-employed,No,3406,Medical,2021-08-24 22:06:07.567567552
+nan,5387,42,Master,3,Married,1,Female,Full-time,Yes,5007,Medical,2021-10-22 09:52:25.945945920
+2,6656,53,High School,4,Single,4,Female,Full-time,Yes,1017,Other,2016-12-21 17:30:48.648648640
+0,10301,40,PhD,3,nan,3,Female,Self-employed,Yes,5794,Car,2017-12-25 22:49:22.162162160
+1,1440,40,High School,3,Married,nan,Male,Full-time,Yes,1027,Car,2019-11-27 20:05:02.702702688
+0,12636,nan,Bachelor,3,Divorced,1,Male,Self-employed,No,610,Car,2014-03-04 03:30:27.027027027
+nan,nan,18,Master,4,Married,3,Male,Unemployed,No,9445,Other,2022-03-06 16:05:45.945945920
+0,14171,30,Master,4,Married,4,Female,Full-time,Yes,3490,Medical,2021-09-12 04:46:50.810810784
+2,2365,19,Master,4,Married,1,Female,Self-employed,No,6485,Car,2022-07-19 22:19:05.945945920
+1,nan,55,High School,4,Married,4,Female,Full-time,No,1473,Other,2020-03-09 04:41:04.864864864
+2,nan,nan,PhD,4,Married,3,Male,Self-employed,Yes,8539,Education,2023-02-02 08:02:52.972972960
+3,8056,56,Bachelor,1,Married,2,Male,Full-time,No,631,Education,2023-08-22 09:30:48.648648640
+4,8684,38,Bachelor,2,Married,2,Female,Part-time,Yes,nan,Home,2019-08-02 20:32:25.945945920
+1,12120,45,nan,1,Single,4,Male,Part-time,No,4221,Education,2016-06-14 15:15:18.918918912
+0,3342,65,Master,4,Married,2,Female,Full-time,No,1601,Business,2019-01-10 03:20:21.621621600
+0,3638,49,High School,1,Single,2,Female,Part-time,No,6339,Home,2014-11-18 16:44:41.081081080
+nan,1640,55,Master,1,Single,2,Female,Full-time,nan,8097,Education,2016-01-09 10:37:07.027027024
+4,1949,42,High School,3,nan,2,Female,Full-time,Yes,9778,Business,2023-06-17 14:16:12.972972928
+2,1640,54,High School,1,Divorced,2,Male,Unemployed,No,8733,Education,2016-05-23 16:50:27.027027024
+3,11722,35,Bachelor,2,Divorced,2,Male,Unemployed,No,6579,Other,2018-11-23 14:46:29.189189184
+3,8567,52,nan,2,Married,4,Male,Part-time,No,9123,Business,2021-10-18 18:08:17.297297280
+0,3719,60,High School,3,nan,2,Male,Unemployed,No,5257,Car,2014-02-13 20:49:43.783783783
+nan,583,27,Master,3,Divorced,3,Male,Unemployed,No,2194,Other,2020-06-26 20:45:24.324324320
+2,1058,67,High School,4,Divorced,2,Male,Full-time,No,9691,Business,2017-02-21 21:01:15.675675664
+1,nan,28,Master,3,Married,4,Female,Self-employed,Yes,5221,Other,2020-11-05 11:14:35.675675648
+2,13327,31,Bachelor,4,nan,3,Male,Full-time,Yes,1581,Car,2021-06-01 20:10:48.648648640
+0,6527,40,Master,2,Widowed,2,Male,Unemployed,No,6729,Business,2015-12-22 03:56:23.783783776
+0,277,61,High School,3,Widowed,2,Male,Full-time,No,nan,Business,2016-06-03 16:02:52.972972960
+3,3072,51,Master,4,Single,4,Female,Part-time,nan,3493,Other,2019-01-24 18:16:56.216216192
+0,10831,52,nan,3,Single,3,Male,Self-employed,Yes,6643,Education,2014-06-03 12:54:03.243243242
+3,686,63,Master,3,Single,4,Female,Unemployed,Yes,nan,Business,2017-04-17 17:03:25.405405392
+1,207,49,Bachelor,2,Single,nan,Male,Unemployed,No,6330,Education,2021-11-27 23:13:52.432432416
+1,9078,61,nan,4,Widowed,3,Male,Full-time,No,1949,Business,2019-11-27 20:05:02.702702688
+1,10874,27,High School,4,Single,1,Male,Full-time,nan,8532,Medical,2018-04-14 14:53:41.621621616
+1,8601,60,Master,4,Single,2,Female,Full-time,Yes,922,Home,2021-11-27 23:13:52.432432416
+3,11561,28,PhD,1,Single,3,Female,Full-time,Yes,2869,Education,2021-06-09 03:39:05.945945920
+1,7906,46,High School,3,Single,4,Male,Unemployed,Yes,nan,Education,2020-02-16 06:16:12.972972960
+2,6609,56,Bachelor,4,Single,4,Male,Full-time,Yes,8372,Car,2015-08-12 13:27:12.432432432
+2,nan,36,High School,3,Divorced,2,Male,Unemployed,nan,9087,Medical,2020-07-22 10:54:24.864864864
+3,12529,64,Bachelor,4,Married,4,Female,Full-time,Yes,2244,Car,2023-08-04 02:50:05.405405376
+nan,899,66,Master,1,Single,3,Female,Self-employed,Yes,2026,Medical,2020-03-16 12:09:22.162162144
+3,14749,38,Bachelor,1,Married,4,Male,Self-employed,Yes,5627,Medical,2018-05-06 13:18:33.513513504
+1,13156,36,Bachelor,2,Married,4,Female,Full-time,Yes,4997,Other,2016-04-28 02:41:26.486486480
+0,12987,37,High School,2,Single,1,Female,Full-time,No,5368,Other,2015-02-07 02:55:51.351351348
+1,14139,31,Bachelor,4,Divorced,4,Female,Part-time,Yes,8674,Other,2023-04-12 19:01:37.297297280
+2,nan,20,High School,2,Divorced,1,Female,Self-employed,Yes,1938,Business,2023-05-04 17:26:29.189189184
+0,10961,47,PhD,3,Divorced,3,Male,Unemployed,nan,3586,Car,2016-04-24 10:57:17.837837840
+2,116,55,High School,1,Divorced,2,Male,Self-employed,Yes,1346,Home,2023-07-09 12:41:04.864864832
+2,8712,46,PhD,3,Single,3,Female,Unemployed,No,4242,Medical,2021-07-01 02:03:57.837837824
+1,1980,44,Bachelor,2,nan,4,Female,Full-time,Yes,8695,Medical,2021-02-01 04:54:03.243243232
+3,14115,65,Bachelor,nan,Widowed,1,Female,Self-employed,No,3318,Education,2016-09-21 08:07:12.432432432
+0,9499,54,Master,1,nan,1,Male,Self-employed,Yes,nan,Business,2019-12-23 10:14:03.243243232
+0,8321,42,Bachelor,1,Single,2,Male,Part-time,Yes,704,Home,2022-01-25 11:00:10.810810784
+3,4876,55,Bachelor,3,nan,4,Female,Part-time,No,9991,Other,2014-05-27 05:25:45.945945944
+2,7179,29,High School,2,Widowed,3,Female,Self-employed,Yes,9507,Medical,2019-08-06 12:16:34.594594592
+3,14288,55,Bachelor,4,Widowed,4,Female,Self-employed,No,5612,Education,2018-08-27 21:07:01.621621600
+2,12504,52,High School,4,Single,3,Female,Self-employed,Yes,1342,Car,2023-03-29 04:05:02.702702656
+1,13919,64,High School,nan,Divorced,2,Male,Unemployed,No,2826,Medical,2014-10-05 19:54:57.297297296
+4,13018,22,Bachelor,3,nan,3,Male,Full-time,nan,9677,Education,2020-11-23 17:55:18.918918912
+3,8320,40,High School,1,Divorced,1,Male,Part-time,Yes,5611,Car,2018-11-23 14:46:29.189189184
+3,nan,48,High School,4,Married,1,Male,Full-time,Yes,8217,Business,2021-09-08 13:02:42.162162144
+1,2720,51,High School,nan,nan,4,Male,Part-time,No,nan,Other,2015-03-01 01:20:43.243243240
+2,6295,27,High School,nan,Married,1,Male,Part-time,No,2405,Car,2018-05-02 21:34:24.864864848
+1,6527,37,High School,1,Married,1,Female,Part-time,Yes,7086,Medical,2014-03-07 19:14:35.675675675
+0,nan,23,nan,2,Married,4,Female,Self-employed,No,6210,Home,2023-12-10 01:35:08.108108096
+nan,5429,65,High School,3,nan,2,Male,Part-time,Yes,6530,Car,2019-09-15 17:22:09.729729728
+0,3993,25,Master,3,Single,2,Male,Full-time,Yes,4398,Home,2015-12-14 20:28:06.486486480
+nan,13613,31,High School,nan,Married,3,Male,Part-time,nan,5580,Home,2020-03-09 04:41:04.864864864
+2,4431,39,nan,1,Divorced,3,Female,Full-time,No,2869,Car,2018-07-04 01:04:51.891891888
