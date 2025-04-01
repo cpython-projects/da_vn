@@ -1,0 +1,293 @@
+Number ;Creation Date;Date when pay;Title;Status  ;Money amount  ;City;Payment System
+1062823;01.12.2024 10:50;01.12.2024 10:52;AI Engineering;Completed;29597.5;Bucha;Банківський переказ
+1062855;01.12.2024 20:53;01.12.2024 21:27;AI Engineering;Completed;17450.3;Kharkiv;Google Pay
+1062856;01.12.2024 21:43;;Python. Data analysis;Canceled;0;Vinnytsia;
+1062880;03.12.2024 0:18;;Frontend Development;Canceled;0;Pervomaisk;
+1062899;03.12.2024 21:43;;AI Engineering;Canceled;0;Smila;
+1062900;03.12.2024 21:49;;Frontend Development;Canceled;0;TERNOPIL;
+1062911;04.12.2024 13:12;;Frontend Development;Canceled;0;Vinnytsia;
+1062914;04.12.2024 14:57;;Frontend Development;Canceled;0;Vinnytsia;
+1062915;04.12.2024 16:08;;AI Engineering;Canceled;0;Kharkiv;
+1062925;04.12.2024 21:51;;AI Engineering;Canceled;0;Kovel;
+1062927;04.12.2024 22:02;;Python. Data analysis;Canceled;0;;
+1062931;04.12.2024 23:11;;AI Engineering;Canceled;0;Pervomaisk;
+1062938;05.12.2024 12:07;22.12.2024 12:29;Frontend Development;Completed;8910; Lviv;PayPal
+1062940;05.12.2024 15:35;05.12.2024 15:40;Machine Learning;Completed;9394.56;;LiqPay
+1062947;05.12.2024 21:39;07.12.2024 13:35;Frontend Development;Completed;5044.05;Sumy;LiqPay
+1062948;05.12.2024 21:56;;AI Engineering;Canceled;0;OdesaDnipro ;
+1062949;05.12.2024 21:57;06.12.2024 9:15;AI Engineering;Completed;29597.5;Irpin;Монобанк
+1062950;05.12.2024 22:06;;Frontend Development;Canceled;0; Lviv;
+1062984;07.12.2024 8:25;;Frontend Development;Canceled;0;Vasylkiv;
+1063012;08.12.2024 21:43;08.12.2024 22:21;Frontend Development;Completed;9800.36;  Chornomorsk  ;WayForPay
+1063013;08.12.2024 21:45;;Frontend Development;Canceled;0;Poltava;
+1063014;08.12.2024 21:58;08.12.2024 23:51;AI Engineering;Completed;29597.5;Cherkasy;LiqPay
+1063020;09.12.2024 8:17;;Frontend Development;Canceled;0;Nova Kakhovka;
+1063032;09.12.2024 21:44;11.12.2024 20:06;Frontend Development;Completed;9649.03;Bucha;Portmone
+1063051;10.12.2024 21:42;10.12.2024 21:46;Frontend Development;Completed;9800.36;Brovary;Portmone
+1063055;10.12.2024 21:58;11.12.2024 16:02;Frontend Development;Completed;9800.36;;ПриватБанк
+1063084;11.12.2024 17:04;11.12.2024 17:05;Frontend Development;Completed;1;;PayPal
+1063087;11.12.2024 17:10;11.12.2024 17:10;Frontend Development;Completed;1;ZAPORIZHZHIA;PayPal
+1063089;11.12.2024 17:14;11.12.2024 17:14;Frontend Development;Completed;1;Drohobych;Монобанк
+1063090;11.12.2024 17:16;11.12.2024 17:16;Frontend Development;Completed;1;;PayPal
+1063092;11.12.2024 17:19;11.12.2024 17:19;Frontend Development;Completed;1;OdesaDnipro ;LiqPay
+1063093;11.12.2024 17:23;11.12.2024 17:24;Frontend Development;Completed;1;Brovary;ПриватБанк
+1063094;11.12.2024 17:25;11.12.2024 17:26;Frontend Development;Completed;1;Vasylkiv;PayPal
+1063109;11.12.2024 23:52;12.12.2024 0:02;Python. Web-developer ;Completed;9898.56;Kostiantynivka;WayForPay
+1063174;13.12.2024 13:30;;AI Engineering;Canceled;0;Kharkiv;
+1063186;13.12.2024 15:30;;AI Engineering;Canceled;0;Bucha;
+1063225;14.12.2024 0:26;;AI Engineering;Canceled;0;Smila;
+1063251;14.12.2024 14:34;18.12.2024 13:11;AI Engineering;Completed;42750;Kharkiv;WayForPay
+1063256;14.12.2024 15:57;14.12.2024 16:49;Frontend Development;Completed;14097.8;Irpin;LiqPay
+1063282;14.12.2024 21:42;;AI Engineering;Canceled;0;Zhytomyr;
+1063283;14.12.2024 21:55;14.12.2024 23:57;Python. Data analysis;Completed;19698.9;zAPORIZHZHIA;Монобанк
+1063291;15.12.2024 1:27;23.12.2024 23:37;Frontend Development;Completed;9305.36;Slovyansk;PayPal
+1063295;15.12.2024 10:58;15.12.2024 13:00;Frontend Development;Completed;9305.36;Brovary;Portmone
+1063302;15.12.2024 14:33;;Machine Learning;Canceled;0;Nikopol;
+1063310;15.12.2024 21:44;;Python. Data analysis;Canceled;0;;
+1063314;15.12.2024 21:57;17.12.2024 21:02;Frontend Development;Completed;9800.36;;Google Pay
+1063333;16.12.2024 11:11;17.12.2024 13:42;Python. Data analysis;Completed;29695.7; Lviv;Google Pay
+1063349;16.12.2024 19:59;17.12.2024 14:19;Frontend Development;Completed;9405;;Монобанк
+1063367;16.12.2024 21:53;;AI Engineering;Canceled;0;Pervomaisk;
+1063368;16.12.2024 21:56;;Frontend Development;Canceled;0;ZAPORIZHZHIA;
+1063391;17.12.2024 9:59;17.12.2024 10:01;Python. Data analysis;Completed;29695.7;Kherson;LiqPay
+1063419;17.12.2024 21:47;;AI Engineering;Canceled;0;Kyiv ;
+1063422;17.12.2024 21:51;;Frontend Development;Canceled;0;Kherson;
+1063572;19.12.2024 16:04;;Frontend Development;Canceled;0;oDesa;
+1063582;19.12.2024 20:52;19.12.2024 20:54;Java Developer;Completed;2935.44;Bucha;Apple Pay
+1063583;19.12.2024 20:53;19.12.2024 22:06;Java Developer;Completed;2935.44;Irpin;Банківський переказ
+1063584;19.12.2024 20:53;20.12.2024 15:28;Java Developer;Completed;2935.44;Kakhovka;WayForPay
+1063585;19.12.2024 20:53;19.12.2024 20:56;Java Developer;Completed;2935.44;Vinnytsia;LiqPay
+1063586;19.12.2024 20:53;19.12.2024 21:18;Java Developer;Completed;2935.44;Zhytomyr;Монобанк
+1063587;19.12.2024 20:54;;Java Developer;Canceled;0;Sumy;
+1063588;19.12.2024 20:54;19.12.2024 20:58;Java Developer;Completed;2935.44;Slavutych;ПриватБанк
+1063589;19.12.2024 20:54;;Java Developer;Canceled;0;zAPORIZHZHIA;
+1063591;19.12.2024 20:55;19.12.2024 20:58;Java Developer;Completed;2935.44;Smila;WayForPay
+1063593;19.12.2024 20:55;19.12.2024 20:59;Java Developer;Completed;2935.44;Nikopol;Google Pay
+1063594;19.12.2024 20:55;21.12.2024 10:49;Java Developer;Completed;2935.44;Nova Kakhovka;Apple Pay
+1063595;19.12.2024 20:55;;Java Developer;Canceled;0;Nikopol;
+1063596;19.12.2024 20:55;19.12.2024 20:58;Java Developer;Completed;2935.44;Kyiv;PayPal
+1063598;19.12.2024 20:55;19.12.2024 21:40;Java Developer;Completed;2935.44;;LiqPay
+1063599;19.12.2024 20:56;;Java Developer;Pending payment;0; Lviv;
+1063602;19.12.2024 20:56;19.12.2024 20:59;Java Developer;Completed;2935.44;Poltava;PayPal
+1063604;19.12.2024 20:56;19.12.2024 21:01;Java Developer;Completed;2935.44;Pervomaisk;LiqPay
+1063605;19.12.2024 20:56;19.12.2024 21:03;Java Developer;Completed;2935.44;Vasylkiv;WayForPay
+1063606;19.12.2024 20:56;19.12.2024 20:59;Java Developer;Completed;2935.44;zAPORIZHZHIA;Монобанк
+1063608;19.12.2024 20:57;19.12.2024 21:30;Java Developer;Completed;2935.44;lutsk;Банківський переказ
+1063609;19.12.2024 20:57;19.12.2024 21:01;Java Developer;Completed;2935.44;Bucha;ПриватБанк
+1063610;19.12.2024 20:57;19.12.2024 21:04;Java Developer;Completed;2935.44;Vasylkiv;Монобанк
+1063612;19.12.2024 20:57;19.12.2024 21:27;Java Developer;Completed;2935.44;Pervomaisk;Монобанк
+1063615;19.12.2024 20:58;19.12.2024 21:05;Java Developer;Completed;2914.3;Pervomaisk;ПриватБанк
+1063616;19.12.2024 20:58;19.12.2024 21:47;Java Developer;Completed;2935.44;Brovary;Google Pay
+1063617;19.12.2024 20:58;;Java Developer;Canceled;0;Kostiantynivka;
+1063618;19.12.2024 20:59;19.12.2024 21:07;Java Developer;Completed;2935.44;Uzhhorod;Готівка
+1063619;19.12.2024 20:59;19.12.2024 21:03;Java Developer;Completed;2935.44;Zhytomyr;Google Pay
+1063620;19.12.2024 20:59;19.12.2024 21:04;Java Developer;Completed;2935.44;Kherson;Готівка
+1063622;19.12.2024 20:59;19.12.2024 21:03;Java Developer;Completed;2935.44;Slovyansk;WayForPay
+1063623;19.12.2024 20:59;20.12.2024 10:59;Java Developer;Completed;2935.44;;Apple Pay
+1063624;19.12.2024 20:59;;Java Developer;Canceled;0;Pervomaisk;
+1063629;19.12.2024 21:00;19.12.2024 21:36;Java Developer;Completed;2935.44;;Apple Pay
+1063630;19.12.2024 21:00;19.12.2024 21:18;Java Developer;Completed;2935.44;ZAPORIZHZHIA;LiqPay
+1063632;19.12.2024 21:00;19.12.2024 21:16;Java Developer;Completed;2935.44;Cherkasy;Google Pay
+1063633;19.12.2024 21:01;;Java Developer;Canceled;0;Brovary;
+1063635;19.12.2024 21:01;;Java Developer;Canceled;0;Bucha;
+1063636;19.12.2024 21:01;19.12.2024 21:04;Java Developer;Completed;2935.44;Pavlohrad;ПриватБанк
+1063637;19.12.2024 21:01;20.12.2024 13:07;Java Developer;Completed;2935.44;OdesaDnipro ;Apple Pay
+1063638;19.12.2024 21:01;19.12.2024 21:08;Java Developer;Completed;2935.44;Ivano-Frankivsk;Монобанк
+1063639;19.12.2024 21:01;19.12.2024 21:05;Java Developer;Completed;2935.44;TERNOPIL;Банківський переказ
+1063640;19.12.2024 21:01;19.12.2024 21:53;Java Developer;Completed;2935.44;OdesaDnipro ;PayPal
+1063641;19.12.2024 21:01;19.12.2024 21:08;Java Developer;Completed;2935.44;Vinnytsia;WayForPay
+1063642;19.12.2024 21:02;;Java Developer;Canceled;0;Kovel;
+1063644;19.12.2024 21:02;19.12.2024 21:05;Java Developer;Completed;2935.44;Nova Kakhovka;Монобанк
+1063646;19.12.2024 21:02;19.12.2024 21:15;Java Developer;Completed;2914.3;Zhytomyr;Монобанк
+1063648;19.12.2024 21:02;19.12.2024 21:57;Java Developer;Completed;2935.44;Uzhhorod;Portmone
+1063649;19.12.2024 21:03;;Java Developer;Canceled;0;;
+1063650;19.12.2024 21:03;20.12.2024 21:34;Java Developer;Completed;2935.44;Pavlohrad;Банківський переказ
+1063651;19.12.2024 21:03;19.12.2024 21:09;Java Developer;Completed;2935.44;zAPORIZHZHIA;PayPal
+1063652;19.12.2024 21:03;19.12.2024 21:36;Java Developer;Completed;2935.44;;WayForPay
+1063653;19.12.2024 21:03;;Java Developer;Canceled;0;rivne  ;
+1063654;19.12.2024 21:03;19.12.2024 21:43;Java Developer;Completed;2935.44;rivne  ;Apple Pay
+1063656;19.12.2024 21:03;19.12.2024 21:05;Java Developer;Completed;2935.44; Lviv;Google Pay
+1063657;19.12.2024 21:03;;Java Developer;Canceled;0;Poltava;
+1063658;19.12.2024 21:03;;Java Developer;Canceled;0;Brovary;
+1063659;19.12.2024 21:04;19.12.2024 23:50;Java Developer;Completed;2935.44;OdesaDnipro ;Google Pay
+1063660;19.12.2024 21:04;28.12.2024 17:40;Java Developer;Completed;2944.5;Kovel;PayPal
+1063661;19.12.2024 21:04;19.12.2024 21:07;Java Developer;Completed;2935.44;Brovary;Apple Pay
+1063662;19.12.2024 21:04;19.12.2024 21:09;Java Developer;Completed;2935.44;Drohobych;PayPal
+1063664;19.12.2024 21:04;21.12.2024 14:47;Java Developer;Completed;2935.44;rivne  ;Apple Pay
+1063665;19.12.2024 21:04;19.12.2024 21:08;Java Developer;Completed;2935.44;Kherson;WayForPay
+1063666;19.12.2024 21:04;25.12.2024 16:09;Java Developer;Completed;2990;Uzhhorod;Apple Pay
+1063667;19.12.2024 21:05;19.12.2024 21:14;Java Developer;Completed;2935.44;Pavlohrad;Банківський переказ
+1063668;19.12.2024 21:05;;Java Developer;Canceled;0;Smila;
+1063671;19.12.2024 21:05;20.12.2024 15:34;Java Developer;Completed;2935.44;Slavutych;ПриватБанк
+1063672;19.12.2024 21:05;19.12.2024 21:09;Java Developer;Completed;2935.44;OdesaDnipro ;Монобанк
+1063673;19.12.2024 21:05;19.12.2024 21:09;Java Developer;Completed;2935.44;zAPORIZHZHIA;WayForPay
+1063674;19.12.2024 21:05;19.12.2024 21:59;Java Developer;Completed;2935.44;Bucha;LiqPay
+1063675;19.12.2024 21:06;19.12.2024 21:12;Java Developer;Completed;2935.44;  Chornomorsk  ;Монобанк
+1063676;19.12.2024 21:06;;Java Developer;Canceled;0;Kakhovka;
+1063677;19.12.2024 21:06;;Java Developer;Canceled;0;Nikopol;
+1063678;19.12.2024 21:06;20.12.2024 15:07;Java Developer;Completed;2935.44;rivne  ;PayPal
+1063679;19.12.2024 21:06;;Java Developer;Canceled;0;Kherson;
+1063680;19.12.2024 21:06;19.12.2024 21:12;Java Developer;Completed;2935.44;Cherkasy;Portmone
+1063681;19.12.2024 21:07;19.12.2024 21:13;Java Developer;Completed;2935.44;Kakhovka;Банківський переказ
+1063682;19.12.2024 21:07;19.12.2024 21:19;Java Developer;Completed;2935.44;Drohobych;LiqPay
+1063683;19.12.2024 21:07;21.12.2024 18:52;Java Developer;Completed;2935.44;TERNOPIL;Банківський переказ
+1063684;19.12.2024 21:07;19.12.2024 21:14;Java Developer;Completed;2935.44;Kherson;LiqPay
+1063685;19.12.2024 21:07;19.12.2024 21:25;Java Developer;Completed;2935.44;Kyiv ;Google Pay
+1063686;19.12.2024 21:07;;Java Developer;Canceled;0;Slovyansk;
+1063687;19.12.2024 21:07;;Java Developer;Canceled;0;Cherkasy;
+1063688;19.12.2024 21:07;;Java Developer;Canceled;0;zAPORIZHZHIA;
+1063689;19.12.2024 21:08;21.12.2024 10:03;Java Developer;Completed;2935.44;;Монобанк
+1063690;19.12.2024 21:08;19.12.2024 21:27;Java Developer;Completed;2935.44;Kharkiv;Apple Pay
+1063691;19.12.2024 21:08;20.12.2024 15:03;Java Developer;Completed;2935.44;  Chornomorsk  ;LiqPay
+1063692;19.12.2024 21:08;;Java Developer;Canceled;0;Kyiv ;
+1063693;19.12.2024 21:08;19.12.2024 21:13;Java Developer;Completed;2935.44;Nova Kakhovka;Готівка
+1063694;19.12.2024 21:08;19.12.2024 21:25;Java Developer;Completed;2935.44;lutsk;PayPal
+1063695;19.12.2024 21:08;19.12.2024 21:16;Java Developer;Completed;2935.44;Kyiv ;Apple Pay
+1063696;19.12.2024 21:08;;Java Developer;Canceled;0;Slovyansk;
+1063697;19.12.2024 21:08;;Java Developer;Canceled;0;Poltava;
+1063698;19.12.2024 21:08;;Java Developer;Canceled;0;Poltava;
+1063699;19.12.2024 21:08;;Java Developer;Canceled;0;Ivano-Frankivsk;
+1063700;19.12.2024 21:08;21.12.2024 6:56;Java Developer;Completed;2935.44;Vasylkiv;Банківський переказ
+1063701;19.12.2024 21:08;21.12.2024 4:05;Java Developer;Completed;2935.44;Kovel;Монобанк
+1063703;19.12.2024 21:08;22.12.2024 16:03;Java Developer;Completed;2840.5;  Chornomorsk  ;Portmone
+1063705;19.12.2024 21:09;;Java Developer;Canceled;0;OdesaDnipro ;
+1063706;19.12.2024 21:09;;Java Developer;Canceled;0;Slovyansk;
+1063707;19.12.2024 21:09;;Java Developer;Canceled;0;Poltava;
+1063708;19.12.2024 21:09;;Java Developer;Canceled;0;Poltava;
+1063710;19.12.2024 21:09;;Java Developer;Canceled;0;Vinnytsia;
+1063711;19.12.2024 21:09;;Java Developer;Canceled;0;Kherson;
+1063712;19.12.2024 21:09;;Java Developer;Canceled;0;Zhytomyr;
+1063713;19.12.2024 21:09;;Java Developer;Canceled;0;Kostiantynivka;
+1063714;19.12.2024 21:09;;Java Developer;Canceled;0;rivne  ;
+1063715;19.12.2024 21:09;21.12.2024 13:06;Java Developer;Completed;2935.44;zAPORIZHZHIA;PayPal
+1063716;19.12.2024 21:10;;Java Developer;Canceled;0;Cherkasy;
+1063717;19.12.2024 21:10;;Java Developer;Canceled;0;Kyiv;
+1063718;19.12.2024 21:10;20.12.2024 14:24;Java Developer;Completed;2935.44;Cherkasy;PayPal
+1063719;19.12.2024 21:10;21.12.2024 16:51;Java Developer;Completed;2935.44;Bucha;Готівка
+1063720;19.12.2024 21:10;21.12.2024 14:07;Java Developer;Completed;2935.44;ZAPORIZHZHIA;Банківський переказ
+1063722;19.12.2024 21:11;19.12.2024 21:14;Java Developer;Completed;2935.44;Drohobych;Apple Pay
+1063723;19.12.2024 21:11;19.12.2024 21:15;Java Developer;Completed;2935.44;oDesa;Банківський переказ
+1063727;19.12.2024 21:12;;Java Developer;Canceled;0;Kostiantynivka;
+1063728;19.12.2024 21:12;19.12.2024 21:18;Java Developer;Completed;2935.44;Drohobych;PayPal
+1063729;19.12.2024 21:12;19.12.2024 21:34;Java Developer;Completed;2935.44;ZAPORIZHZHIA;Банківський переказ
+1063730;19.12.2024 21:12;;Java Developer;Canceled;0;Kharkiv;
+1063731;19.12.2024 21:12;;Java Developer;Canceled;0;Kyiv;
+1063732;19.12.2024 21:12;;Java Developer;Canceled;0;rivne  ;
+1063734;19.12.2024 21:13;;Java Developer;Canceled;0;Kyiv;
+1063735;19.12.2024 21:13;21.12.2024 19:37;Java Developer;Completed;2935.44;;PayPal
+1063736;19.12.2024 21:14;;Java Developer;Canceled;0;rivne  ;
+1063737;19.12.2024 21:14;21.12.2024 19:46;Java Developer;Completed;2935.44;;PayPal
+1063738;19.12.2024 21:14;19.12.2024 21:19;Java Developer;Completed;2935.44; Lviv;Google Pay
+1063739;19.12.2024 21:14;25.12.2024 18:36;Java Developer;Completed;2935.44;Kostiantynivka;Portmone
+1063740;19.12.2024 21:14;27.12.2024 14:25;Java Developer;Completed;2935.44;Vasylkiv;Банківський переказ
+1063741;19.12.2024 21:14;19.12.2024 21:27;Java Developer;Completed;2944.5;Drohobych;LiqPay
+1063742;19.12.2024 21:15;19.12.2024 21:18;Java Developer;Completed;2944.5;Kakhovka;LiqPay
+1063744;19.12.2024 21:15;;Java Developer;Canceled;0;Drohobych;
+1063746;19.12.2024 21:16;19.12.2024 21:19;Java Developer;Completed;2935.44;OdesaDnipro ;PayPal
+1063749;19.12.2024 21:17;;Java Developer;Canceled;0;Sumy;
+1063751;19.12.2024 21:17;19.12.2024 21:21;Java Developer;Completed;2935.44;Kovel;Монобанк
+1063752;19.12.2024 21:17;19.12.2024 22:21;Java Developer;Completed;2935.44;Ivano-Frankivsk;Apple Pay
+1063753;19.12.2024 21:19;19.12.2024 21:21;Java Developer;Completed;2944.5;Vinnytsia;PayPal
+1063754;19.12.2024 21:20;20.12.2024 23:53;Java Developer;Completed;2990;Drohobych;Готівка
+1063756;19.12.2024 21:25;19.12.2024 22:06;Java Developer;Completed;2935.44;;Google Pay
+1063758;19.12.2024 21:26;19.12.2024 21:31;Java Developer;Completed;2935.44;rivne  ;LiqPay
+1063759;19.12.2024 21:27;21.12.2024 20:12;Java Developer;Completed;2935.44;Kakhovka;Готівка
+1063761;19.12.2024 21:28;21.12.2024 17:46;Java Developer;Completed;2935.44;oDesa;WayForPay
+1063762;19.12.2024 21:29;;Java Developer;Canceled;0;Bucha;
+1063765;19.12.2024 21:32;20.12.2024 15:30;Java Developer;Completed;2935.44;Poltava;Готівка
+1063766;19.12.2024 21:33;;Java Developer;Canceled;0;Vinnytsia;
+1063767;19.12.2024 21:33;;Java Developer;Canceled;0;Sumy;
+1063771;19.12.2024 21:36;19.12.2024 21:49;Java Developer;Completed;2935.44;Kyiv;Банківський переказ
+1063772;19.12.2024 21:36;;Java Developer;Canceled;0;Slovyansk;
+1063775;19.12.2024 21:38;;Java Developer;Canceled;0;TERNOPIL;
+1063776;19.12.2024 21:39;21.12.2024 23:02;Java Developer;Completed;2935.44;Irpin;Apple Pay
+1063778;19.12.2024 21:42;;Java Developer;Canceled;0;OdesaDnipro ;
+1063781;19.12.2024 21:45;19.12.2024 21:53;Java Developer;Completed;2935.44;ZAPORIZHZHIA;WayForPay
+1063782;19.12.2024 21:45;24.12.2024 21:58;Java Developer;Completed;2935.44;Kharkiv;Google Pay
+1063783;19.12.2024 21:48;19.12.2024 21:53;Java Developer;Completed;2935.44;Kherson;ПриватБанк
+1063785;19.12.2024 21:50;;Java Developer;Canceled;0;Smila;
+1063786;19.12.2024 21:52;19.12.2024 23:31;Java Developer;Completed;2935.44;Irpin;Portmone
+1063787;19.12.2024 21:53;20.12.2024 16:31;Java Developer;Completed;2935.44;Nova Kakhovka;WayForPay
+1063789;19.12.2024 21:57;20.12.2024 18:18;Frontend Development;Completed;9800.36;Smila;WayForPay
+1063792;19.12.2024 22:00;19.12.2024 22:13;Java Developer;Completed;2935.44;oDesa;PayPal
+1063793;19.12.2024 22:02;19.12.2024 22:05;Java Developer;Completed;2944.5;;Google Pay
+1063796;19.12.2024 22:08;;Java Developer;Canceled;0;Slovyansk;
+1063797;19.12.2024 22:25;20.12.2024 12:54;Python. Web-developer ;Completed;9898.56;Ivano-Frankivsk;PayPal
+1063799;19.12.2024 22:36;21.12.2024 22:32;Java Developer;Completed;2935.44;Kharkiv;WayForPay
+1063801;19.12.2024 22:53;19.12.2024 23:07;Java Developer;Completed;2935.44;Nikopol;ПриватБанк
+1063802;19.12.2024 23:07;;Java Developer;Canceled;0;Pavlohrad;
+1063805;19.12.2024 23:27;19.12.2024 23:50;Java Developer;Completed;2935.44;;Банківський переказ
+1063806;19.12.2024 23:35;19.12.2024 23:40;Java Developer;Completed;2935.44;Sumy;Банківський переказ
+1063810;20.12.2024 7:53;;Java Developer;Canceled;0;Kostiantynivka;
+1063826;20.12.2024 17:14;21.12.2024 13:53;Frontend Development;Completed;9800.36;zAPORIZHZHIA;PayPal
+1063829;20.12.2024 19:43;20.12.2024 19:46;Java Developer;Completed;2935.44;Sumy;Готівка
+1063844;20.12.2024 21:43;;Frontend Development;Canceled;0;Vinnytsia;
+1063847;20.12.2024 21:55;;AI Engineering;Canceled;0;Sumy;
+1063888;21.12.2024 10:44;;Python. Web-developer ;Canceled;0;oDesa;
+1063891;21.12.2024 11:10;;Frontend Development;Canceled;0;Irpin;
+1063910;21.12.2024 12:49;;Java Developer;Canceled;0;Smila;
+1063918;21.12.2024 13:28;22.12.2024 14:38;Frontend Development;Completed;8516.75;rivne  ;Apple Pay
+1063964;21.12.2024 19:04;21.12.2024 19:06;Machine Learning;Completed;3959.42;Cherkasy;ПриватБанк
+1063969;21.12.2024 19:47;21.12.2024 19:49;Java Developer;Completed;2935.44;Pavlohrad;Portmone
+1063990;21.12.2024 22:27;23.12.2024 18:23;Frontend Development;Completed;9305.36;TERNOPIL;Монобанк
+1064027;22.12.2024 16:54;;Java Developer;Canceled;0;;
+1064042;22.12.2024 21:38;23.12.2024 13:25;Java Developer;Completed;2935.44;Nikopol;ПриватБанк
+1064044;22.12.2024 21:45;;Python. Data analysis;Canceled;0;Kyiv;
+1064053;23.12.2024 0:38;23.12.2024 0:42;Python. Data analysis;Completed;29695.7;ZAPORIZHZHIA;Монобанк
+1064079;23.12.2024 13:20;;Frontend Development;Canceled;0;Irpin;
+1064087;23.12.2024 15:00;23.12.2024 16:03;Python. Web-developer ;Completed;9898.56;;Банківський переказ
+1064106;23.12.2024 18:12;;Frontend Development;Canceled;0;Pervomaisk;
+1064114;23.12.2024 19:10;23.12.2024 19:16;Java Developer;Completed;2935.44;Vasylkiv;Google Pay
+1064122;23.12.2024 21:46;;Frontend Development;Canceled;0;;
+1064123;23.12.2024 21:54;;AI Engineering;Canceled;0;lutsk;
+1064127;23.12.2024 22:56;23.12.2024 23:17;Java Developer;Completed;2935.44;Drohobych;Google Pay
+1064133;24.12.2024 0:36;24.12.2024 0:43;Java Developer;Completed;2935.44;Vinnytsia;PayPal
+1064143;24.12.2024 7:00;;AI Engineering;Canceled;0;TERNOPIL;
+1064215;24.12.2024 17:19;24.12.2024 17:22;Java Developer;Completed;2935.44;Irpin;Apple Pay
+1064251;24.12.2024 21:43;26.12.2024 20:34;Frontend Development;Completed;9800.36;;PayPal
+1064252;24.12.2024 21:57;;Python. Data analysis;Canceled;0;Kyiv ;
+1064318;25.12.2024 13:43;25.12.2024 14:03;Java Developer;Completed;2935.44;Bucha;Монобанк
+1064349;25.12.2024 21:51;;AI Engineering;Canceled;0;Uzhhorod;
+1064351;25.12.2024 22:32;26.12.2024 17:54;Python. Web-developer ;Completed;9898.56;Cherkasy;WayForPay
+1064379;26.12.2024 12:48;;Frontend Development;Canceled;0;Kyiv;
+1064389;26.12.2024 14:33;26.12.2024 14:35;Java Developer;Completed;2935.44;Brovary;Банківський переказ
+1064393;26.12.2024 15:14;;Java Developer;;0;;
+1064397;26.12.2024 16:05;28.12.2024 16:41;Python. Data analysis;Completed;18789.1;oDesa;Монобанк
+1064400;26.12.2024 16:33;;Python. Web-developer ;Canceled;0;Zhytomyr;
+1064405;26.12.2024 17:04;;Frontend Development;Canceled;0;Kostiantynivka;
+1064412;26.12.2024 17:50;27.12.2024 15:58;Python. Web-developer ;Completed;9898.56;rivne  ;Монобанк
+1064413;26.12.2024 18:08;27.12.2024 16:09;Frontend Development;Completed;8820.32;OdesaDnipro ;Apple Pay
+1064423;26.12.2024 19:13;27.12.2024 13:38;Frontend Development;Completed;7423.92;zAPORIZHZHIA;Google Pay
+1064425;26.12.2024 19:43;26.12.2024 19:54;Frontend Development;Completed;7125;Vasylkiv;Google Pay
+1064432;26.12.2024 21:52;;AI Engineering;Canceled;0;Smila;
+1064433;26.12.2024 23:02;;Frontend Development;Canceled;0;Kyiv;
+1064440;26.12.2024 23:56;31.12.2024 19:47;Frontend Development;Completed;7045.92;Kharkiv;Готівка
+1064456;27.12.2024 9:50;;Python. Web-developer ;Canceled;0;OdesaDnipro ;
+1064489;27.12.2024 11:58;27.12.2024 12:03;Python. Web-developer ;Completed;9898.56;Vinnytsia;PayPal
+1064508;27.12.2024 13:10;;Python. Web-developer ;Canceled;0;Kyiv;
+1064515;27.12.2024 13:46;;Python. Web-developer ;Canceled;0;lutsk;
+1064522;27.12.2024 14:13;;Machine Learning;Canceled;0;Nova Kakhovka;
+1064525;27.12.2024 14:19;;Machine Learning;Canceled;0;Kostiantynivka;
+1064526;27.12.2024 14:20;;Machine Learning;Canceled;0;Nikopol;
+1064553;27.12.2024 18:06;27.12.2024 18:09;Python. Data analysis;Completed;29695.7;zAPORIZHZHIA;Google Pay
+1064576;27.12.2024 21:58;;AI Engineering;Canceled;0;Sumy;
+1064577;27.12.2024 21:58;27.12.2024 22:03;Frontend Development;Completed;9800.36;Brovary;Банківський переказ
+1064584;27.12.2024 22:58;27.12.2024 23:35;Python. Web-developer ;Completed;9500;Drohobych;Portmone
+1064604;28.12.2024 9:00;28.12.2024 9:08;Java Developer;Completed;2935.44;Brovary;PayPal
+1064622;28.12.2024 14:29;28.12.2024 14:29;Frontend Development;Completed;1;  Chornomorsk  ;Готівка
+1064623;28.12.2024 15:47;;Machine Learning;Canceled;0;Nova Kakhovka;
+1064625;28.12.2024 16:18;28.12.2024 17:11;Python. Web-developer ;Completed;9595;Kherson;ПриватБанк
+1064649;28.12.2024 22:09;30.12.2024 13:14;Java Developer;Completed;2935.44;Bucha;Google Pay
+1064654;28.12.2024 22:59;28.12.2024 23:02;Java Developer;Completed;2935.44;;Готівка
+1064659;29.12.2024 1:03;29.12.2024 1:10;Java Developer;Completed;2935.44;Smila;PayPal
+1064679;29.12.2024 12:26;;Machine Learning;Partially paid;0;Vinnytsia;
+1064682;29.12.2024 13:58;31.12.2024 12:25;Frontend Development;Completed;8374.82;Slovyansk;WayForPay
+1064686;29.12.2024 15:52;;Python. Web-developer ;Partially paid;0;Cherkasy;
+1064689;29.12.2024 16:52;29.12.2024 17:02;Machine Learning;Completed;5398.56;Uzhhorod;Apple Pay
+1064692;29.12.2024 17:13;;Frontend Development;Canceled;0;;
+1064712;29.12.2024 22:58;30.12.2024 10:56;Python. Data analysis;Completed;3591.84;Sumy;WayForPay
+1064720;30.12.2024 9:42;30.12.2024 12:49;Java Developer;Completed;2935.44;Irpin;Apple Pay
+1064724;30.12.2024 11:32;;Frontend Development;Canceled;0;rivne  ;
+1064775;31.12.2024 2:17;31.12.2024 2:22;Frontend Development;Completed;7423.92;Kherson;Apple Pay
+1064793;31.12.2024 16:40;01.01.2020 14:29;Java Developer;Completed;2935.44;Irpin;ПриватБанк
+1064796;31.12.2024 17:29;31.12.2024 17:32;Python. Web-developer ;Completed;9898.56;Sumy;Apple Pay
